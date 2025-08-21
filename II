@@ -109,14 +109,7 @@
             
             <div id="paragrafus-contentus" class="textum-classicum text-xl leading-relaxed text-justify bg-white p-8 lg:p-12 rounded-lg shadow-lg"></div>
             
-            <nav class="navegacion-paginas" aria-label="Navegación de páginas">
-                <a href="../index.html" class="flecha-nav">
-                    <span aria-hidden="true">←</span> Anterior
-                </a>
-                <a href="III.html" class="flecha-nav">
-                    Siguiente <span aria-hidden="true">→</span>
-                </a>
-            </nav>
+        
 
             <footer class="text-center mt-6 text-sm text-gray-500">
                 <p id="footer-text"><i>Haz clic en una palabra para ver su análisis y la traducción de la frase.</i></p>
