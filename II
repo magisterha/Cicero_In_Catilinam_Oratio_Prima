@@ -1,0 +1,670 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Análisis: In Catilinam I [4-6] - Página II</title>
+    
+    <style type="text/css">
+        /* --- Tailwind CSS Pre-compilado (Preflight & Utilitarios Usados) --- */
+        *,::before,::after{box-sizing:border-box;border-width:0;border-style:solid;border-color:#e5e7eb}::before,::after{--tw-content:''}html{line-height:1.5;-webkit-text-size-adjust:100%;-moz-tab-size:4;tab-size:4;font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";font-feature-settings:normal;font-variation-settings:normal}body{margin:0;line-height:inherit}hr{height:0;color:inherit;border-top-width:1px}abbr:where([title]){-webkit-text-decoration:underline dotted;text-decoration:underline dotted}h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit}a{color:inherit;text-decoration:inherit}b,strong{font-weight:bolder}code,kbd,samp,pre{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}table{text-indent:0;border-color:inherit;border-collapse:collapse}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;color:inherit;margin:0;padding:0}button,select{text-transform:none}button,[type='button'],[type='reset'],[type='submit']{-webkit-appearance:button;background-color:transparent;background-image:none}:-moz-focusring{outline:auto}:-moz-ui-invalid{box-shadow:none}progress{vertical-align:baseline}::-webkit-inner-spin-button,::-webkit-outer-spin-button{height:auto}[type='search']{-webkit-appearance:textfield;outline-offset:-2px}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}blockquote,dl,dd,h1,h2,h3,h4,h5,h6,hr,figure,p,pre{margin:0}fieldset{margin:0;padding:0}legend{padding:0}ol,ul,menu{list-style:none;margin:0;padding:0}textarea{resize:vertical}input::placeholder,textarea::placeholder{opacity:1;color:#9ca3af}button, [role="button"]{cursor:pointer}:disabled{cursor:default}img,svg,video,canvas,audio,iframe,embed,object{display:block;vertical-align:middle}img,video{max-width:100%;height:auto}[hidden]{display:none}
+        .mb-4{margin-bottom:1rem}.mb-6{margin-bottom:1.5rem}.mb-10{margin-bottom:2.5rem}.mt-1{margin-top:0.25rem}.mt-2{margin-top:0.5rem}.mt-4{margin-top:1rem}.mt-6{margin-top:1.5rem}.my-6{margin-top:1.5rem;margin-bottom:1.5rem}
+        .block{display:block}.h-screen{height:100vh}.w-80{width:20rem}
+        .overflow-y-auto{overflow-y:auto}.rounded-lg{border-radius:0.5rem}.rounded-md{border-radius:0.375rem}
+        .border-b-2{border-bottom-width:2px}.border-stone-300{--tw-border-opacity:1;border-color:rgb(214 211 209 / var(--tw-border-opacity))}
+        .bg-stone-100{--tw-bg-opacity:1;background-color:rgb(245 245 244 / var(--tw-bg-opacity))}
+        .bg-stone-200{--tw-bg-opacity:1;background-color:rgb(231 229 228 / var(--tw-bg-opacity))}
+        .bg-white{--tw-bg-opacity:1;background-color:rgb(255 255 255 / var(--tw-bg-opacity))}
+        .p-1{padding:0.25rem}.p-2{padding:0.5rem}.p-3{padding:0.75rem}.p-4{padding:1rem}.p-6{padding:1.5rem}.p-8{padding:2rem}.pb-5{padding-bottom:1.25rem}
+        .text-center{text-align:center}.text-justify{text-align:justify}
+        .text-2xl{font-size:1.5rem;line-height:2rem}.text-5xl{font-size:3rem;line-height:1}
+        .text-sm{font-size:0.875rem;line-height:1.25rem}.text-xl{font-size:1.25rem;line-height:1.75rem}
+        .font-bold{font-weight:700}.font-semibold{font-weight:600}.uppercase{text-transform:uppercase}.leading-relaxed{line-height:1.625}.tracking-wider{letter-spacing:0.05em}
+        .text-gray-500{--tw-text-opacity:1;color:rgb(107 114 128 / var(--tw-text-opacity))}
+        .text-gray-600{--tw-text-opacity:1;color:rgb(75 85 99 / var(--tw-text-opacity))}
+        .text-gray-700{--tw-text-opacity:1;color:rgb(55 65 81 / var(--tw-text-opacity))}
+        .text-gray-800{--tw-text-opacity:1;color:rgb(31 41 55 / var(--tw-text-opacity))}
+        .shadow-lg{--tw-shadow:0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);--tw-shadow-colored:0 10px 15px -3px var(--tw-shadow-color), 0 4px 6px -4px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}
+        .shadow-xl{--tw-shadow:0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);--tw-shadow-colored:0 20px 25px -5px var(--tw-shadow-color), 0 8px 10px -6px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}
+        .transition{transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;-webkit-backdrop-filter:backdrop-filter;transition-timing-function:cubic-bezier(.4,0,.2,1);transition-duration:.15s}
+        .space-y-3>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(0.75rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(0.75rem * var(--tw-space-y-reverse))}
+        .space-y-4>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(1rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(1rem * var(--tw-space-y-reverse))}
+        @media (min-width:1024px){.lg\:p-12{padding:3rem}}
+
+        /* --- Estilos Personalizados --- */
+        body{background-color:#f3f0e9;font-family:'Helvetica Neue',Arial,sans-serif;color:#4a4a4a}
+        .textum-classicum{font-family:'Georgia','Times New Roman',serif}
+        .verbum{cursor:pointer;transition:background-color .2s ease-in-out, box-shadow .2s ease-in-out; border-radius: 0.25rem; padding: 0 0.1rem;}
+        .verbum:hover{background-color:#ede6d6}
+        .activus{background-color:#cbbca7!important;font-weight:700}
+        
+        /* --- ESTILOS PARA LA NAVEGACIÓN DE PÁGINAS --- */
+        .navegacion-paginas {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 2rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid #d6d3d1;
+        }
+        .flecha-nav {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.6rem 1.2rem;
+            background-color: #f5f5f4;
+            color: #4a4a4a;
+            font-weight: 600;
+            text-decoration: none;
+            border-radius: 0.375rem;
+            border: 1px solid #d6d3d1;
+            transition: all 0.2s ease-in-out;
+        }
+        .flecha-nav:hover {
+            background-color: #e7e5e4;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            transform: translateY(-2px);
+        }
+
+        /* --- ESTILOS PARA EL SELECTOR DE IDIOMA --- */
+        #language-switcher { display: flex; gap: 0.5rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 1rem; }
+        .lang-btn { flex-grow: 1; padding: 0.5rem; border: 1px solid #d6d3d1; background-color: #f5f5f4; color: #57534e; border-radius: 0.375rem; cursor: pointer; font-weight: 600; transition: background-color 0.2s, color 0.2s; font-size: 0.875rem;}
+        .lang-btn:hover { background-color: #e7e5e4; }
+        .lang-btn.active-lang { background-color: #4a4a4a; color: #ffffff; border-color: #4a4a4a; }
+        
+        /* --- LAYOUT RESPONSIVO (Móvil Primero) --- */
+        .main-layout { padding: 1rem; padding-bottom: calc(45vh + 2rem); }
+        #marginalia-sinistra { position: fixed; bottom: 0; left: 0; right: 0; width: 100%; height: 45vh; z-index: 50; border-top: 2px solid #d6d3d1; box-shadow: 0 -4px 10px rgba(0,0,0,0.1); transform: translateY(0); transition: transform 0.3s ease-in-out; }
+        
+        /* --- LAYOUT PARA ORDENADOR --- */
+        @media (min-width: 1024px) {
+            .main-layout {
+                display: grid;
+                grid-template-columns: 2fr 1fr;
+                gap: 2rem;
+                padding: 2rem;
+            }
+            #marginalia-sinistra {
+                position: sticky;
+                top: 2rem;
+                bottom: auto;
+                left: auto;
+                right: auto;
+                height: calc(100vh - 4rem);
+                width: auto;
+                border-top: none;
+                box-shadow: var(--tw-shadow-xl);
+            }
+        }
+    </style>
+</head>
+<body class="bg-stone-100">
+
+    <div class="main-layout">
+        <main>
+            <header class="text-center mb-10 border-b-2 border-stone-300 pb-5">
+                <h1 id="main-title" class="text-5xl textum-classicum text-gray-800"></h1>
+                <h2 id="subtitle" class="text-2xl text-gray-600 mt-2"></h2>
+            </header>
+            
+            <div id="paragrafus-contentus" class="textum-classicum text-xl leading-relaxed text-justify bg-white p-8 lg:p-12 rounded-lg shadow-lg"></div>
+            
+        
+
+            <footer class="text-center mt-6 text-sm text-gray-500">
+                <p id="footer-text"><i>Haz clic en una palabra para ver su análisis y la traducción de la frase.</i></p>
+            </footer>
+        </main>
+
+        <aside id="marginalia-sinistra" class="bg-white p-6 rounded-t-lg lg:rounded-lg overflow-y-auto">
+            <div id="language-switcher" class="mb-4">
+                <button data-lang="en" class="lang-btn">English</button>
+                <button data-lang="es" class="lang-btn active-lang">Español</button>
+                <button data-lang="zh" class="lang-btn">中文 (繁體)</button>
+            </div>
+            <div id="marginalia-contentus"></div>
+        </aside>
+    </div>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', () => {
+
+        // =========================================================================================
+        // === INICIO DE LA ZONA DE DATOS DE LA PLANTILLA ===
+        // =========================================================================================
+        const titulus_latinus_originalis = "M. Tulli Ciceronis Oratio in Catilinam Prima";
+        const titulus_translatio = {
+            en: "Cicero's First Oration Against Catiline",
+            es: "Primera Catilinaria de Cicerón",
+            zh: "西塞羅反喀提林第一次演說"
+        };
+
+        const paragrafus = {
+            id: 2,
+            orationes: [
+                {
+                    id_orationis: 'o17',
+                    textus_latinus: "Decreuit quondam senatus uti L. Opimius consul uideret ne quid res publica detrimenti caperet: nox nulla intercessit:",
+                    translationes: { 
+                        en: 'The senate once decreed that the consul L. Opimius should see to it that the republic suffered no harm: not a single night passed:',
+                        es: 'El senado decretó una vez que el cónsul L. Opimio velara por que la república no sufriera ningún daño: no pasó ni una noche:', 
+                        zh: '元老院曾下令執政官盧基烏斯·奧皮米烏斯確保共和國不受任何損害：一夜未過：'
+                    },
+                    verba: [
+                        { id_verbi: 'v17_1', terminus: 'Decreuit', analysis_morphologicus: 'Verbo. 3ª p. sing. perfecto activo indicativo (decerno).', analysis_morphologicus_en: 'Verb. 3rd p. sing. perfect active indicative (decerno).', analysis_morphologicus_zh: '動詞。第三人稱單數完成時主動直陳式 (decerno)。', significationes: { es: 'decretó', en: 'decreed', zh: '下令' } },
+                        { id_verbi: 'v17_2', terminus: 'quondam', analysis_morphologicus: 'Adverbio. (una vez).', analysis_morphologicus_en: 'Adverb. (once).', analysis_morphologicus_zh: '副詞。(曾經)。', significationes: { es: 'una vez', en: 'once', zh: '曾經' } },
+                        { id_verbi: 'v17_3', terminus: 'senatus', analysis_morphologicus: 'Sustantivo. Masculino, singular, nominativo. Sujeto.', analysis_morphologicus_en: 'Noun. Masculine, singular, nominative. Subject.', analysis_morphologicus_zh: '名詞。陽性，單數，主格。主語。', significationes: { es: 'el senado', en: 'the senate', zh: '元老院' } },
+                        { id_verbi: 'v17_4', terminus: 'uti', analysis_morphologicus: 'Conjunción. (que). Introduce una orden indirecta.', analysis_morphologicus_en: 'Conjunction. (that). Introduces an indirect command.', analysis_morphologicus_zh: '連詞。(以便)。引導間接命令。', significationes: { es: 'que', en: 'that', zh: '以便' } },
+                        { id_verbi: 'v17_5', terminus: 'L.', analysis_morphologicus: 'Praenomen. (Lucius).', analysis_morphologicus_en: 'Praenomen. (Lucius).', analysis_morphologicus_zh: '個人名。(盧基烏斯)。', significationes: { es: 'Lucio', en: 'Lucius', zh: '盧基烏斯' } },
+                        { id_verbi: 'v17_6', terminus: 'Opimius', analysis_morphologicus: 'Sustantivo. Masculino, singular, nominativo. Sujeto de la cláusula.', analysis_morphologicus_en: 'Noun. Masculine, singular, nominative. Subject of the clause.', analysis_morphologicus_zh: '名詞。陽性，單數，主格。從句主語。', significationes: { es: 'Opimio', en: 'Opimius', zh: '奧皮米烏斯' } },
+                        { id_verbi: 'v17_7', terminus: 'consul', analysis_morphologicus: 'Sustantivo. Masculino, singular, nominativo. Aposición.', analysis_morphologicus_en: 'Noun. Masculine, singular, nominative. In apposition.', analysis_morphologicus_zh: '名詞。陽性，單數，主格。同位語。', significationes: { es: 'cónsul', en: 'consul', zh: '執政官' } },
+                        { id_verbi: 'v17_8', terminus: 'uideret', analysis_morphologicus: 'Verbo. 3ª p. sing. imperfecto activo subjuntivo (video).', analysis_morphologicus_en: 'Verb. 3rd p. sing. imperfect active subjunctive (video).', analysis_morphologicus_zh: '動詞。第三人稱單數未完成時主動虛擬式 (video)。', significationes: { es: 'velara', en: 'should see to it', zh: '確保' } },
+                        { id_verbi: 'v17_9', terminus: 'ne', analysis_morphologicus: 'Conjunción. (que no, para que no).', analysis_morphologicus_en: 'Conjunction. (that... not, lest).', analysis_morphologicus_zh: '連詞。(以免)。', significationes: { es: 'que no', en: 'lest', zh: '以免' } },
+                        { id_verbi: 'v17_10', terminus: 'quid', analysis_morphologicus: 'Pronombre indefinido. Neutro, singular, acusativo.', analysis_morphologicus_en: 'Indefinite pronoun. Neuter, singular, accusative.', analysis_morphologicus_zh: '不定代詞。中性，單數，賓格。', significationes: { es: 'ningún', en: 'any', zh: '任何' } },
+                        { id_verbi: 'v17_11', terminus: 'res', analysis_morphologicus: 'Sustantivo. Femenino, singular, nominativo. Sujeto.', analysis_morphologicus_en: 'Noun. Feminine, singular, nominative. Subject.', analysis_morphologicus_zh: '名詞。陰性，單數，主格。主語。', significationes: { es: 'la república', en: 'the republic', zh: '共和國' } },
+                        { id_verbi: 'v17_12', terminus: 'publica', analysis_morphologicus: 'Adjetivo. Femenino, singular, nominativo.', analysis_morphologicus_en: 'Adjective. Feminine, singular, nominative.', analysis_morphologicus_zh: '形容詞。陰性，單數，主格。', significationes: { es: '', en: '', zh: '' } },
+                        { id_verbi: 'v17_13', terminus: 'detrimenti', analysis_morphologicus: 'Sustantivo. Neutro, singular, genitivo. Genitivo partitivo con quid.', analysis_morphologicus_en: 'Noun. Neuter, singular, genitive. Partitive genitive with quid.', analysis_morphologicus_zh: '名詞。中性，單數，屬格。與 quid 連用的部分屬格。', significationes: { es: 'daño', en: 'harm', zh: '損害' } },
+                        { id_verbi: 'v17_14', terminus: 'caperet:', terminus_verus: 'caperet', analysis_morphologicus: 'Verbo. 3ª p. sing. imperfecto activo subjuntivo (capio).', analysis_morphologicus_en: 'Verb. 3rd p. sing. imperfect active subjunctive (capio).', analysis_morphologicus_zh: '動詞。第三人稱單數未完成時主動虛擬式 (capio)。', significationes: { es: 'sufriera', en: 'suffer', zh: '遭受' } },
+                        { id_verbi: 'v17_15', terminus: 'nox', analysis_morphologicus: 'Sustantivo. Femenino, singular, nominativo. Sujeto.', analysis_morphologicus_en: 'Noun. Feminine, singular, nominative. Subject.', analysis_morphologicus_zh: '名詞。陰性，單數，主格。主語。', significationes: { es: 'noche', en: 'night', zh: '夜晚' } },
+                        { id_verbi: 'v17_16', terminus: 'nulla', analysis_morphologicus: 'Adjetivo. Femenino, singular, nominativo.', analysis_morphologicus_en: 'Adjective. Feminine, singular, nominative.', analysis_morphologicus_zh: '形容詞。陰性，單數，主格。', significationes: { es: 'ninguna', en: 'no', zh: '沒有' } },
+                        { id_verbi: 'v17_17', terminus: 'intercessit:', terminus_verus: 'intercessit', analysis_morphologicus: 'Verbo. 3ª p. sing. perfecto activo indicativo (intercedo).', analysis_morphologicus_en: 'Verb. 3rd p. sing. perfect active indicative (intercedo).', analysis_morphologicus_zh: '動詞。第三人稱單數完成時主動直陳式 (intercedo)。', significationes: { es: 'pasó', en: 'passed', zh: '過去' } }
+                    ]
+                },
+                {
+                    id_orationis: 'o18',
+                    textus_latinus: "interfectus est propter quasdam seditionum suspiciones C. Gracchus, clarissimo patre, auo, maioribus, occisus est cum liberis M. Fuluius consularis.",
+                    translationes: {
+                        en: 'Gaius Gracchus, of a most illustrious father, grandfather, and ancestors, was killed on account of certain suspicions of sedition; Marcus Fulvius, an ex-consul, was slain with his children.',
+                        es: 'Gayo Graco, de padre, abuelo y antepasados ilustrísimos, fue asesinado por ciertas sospechas de sedición; Marco Fulvio, un ex-cónsul, fue matado junto a sus hijos.',
+                        zh: '蓋烏斯·格拉古，出身於最顯赫的父輩、祖輩和先人，因涉嫌煽動叛亂而被殺；前執政官馬爾庫斯·富爾維烏斯與其子女一同被處死。'
+                    },
+                    verba: [
+                        {id_verbi: "v18_1", terminus: "interfectus", analysis_morphologicus: "Participio perfecto pasivo de interficio.", analysis_morphologicus_en: "Perfect passive participle of interficio.", analysis_morphologicus_zh: "interficio 的完成被動分詞。", significationes: {es: "asesinado", en: "killed", zh: "被殺"}},
+                        {id_verbi: "v18_2", terminus: "est", analysis_morphologicus: "Verbo. 3ª p. sing. presente activo indicativo (sum).", analysis_morphologicus_en: "Verb. 3rd p. sing. present active indicative (sum).", analysis_morphologicus_zh: "動詞。第三人稱單數現在時主動直陳式 (sum)。", significationes: {es: "fue", en: "was", zh: "是"}},
+                        {id_verbi: "v18_3", terminus: "propter", analysis_morphologicus: "Preposición. Rige acusativo (a causa de).", analysis_morphologicus_en: "Preposition. Takes accusative (because of).", analysis_morphologicus_zh: "介詞。接賓格 (因為)。", significationes: {es: "a causa de", en: "because of", zh: "因為"}},
+                        {id_verbi: "v18_4", terminus: "quasdam", analysis_morphologicus: "Adjetivo indefinido. Femenino, plural, acusativo.", analysis_morphologicus_en: "Indefinite adjective. Feminine, plural, accusative.", analysis_morphologicus_zh: "不定形容詞。陰性，複數，賓格。", significationes: {es: "ciertas", en: "certain", zh: "某些"}},
+                        {id_verbi: "v18_5", terminus: "seditionum", analysis_morphologicus: "Sustantivo. Femenino, plural, genitivo.", analysis_morphologicus_en: "Noun. Feminine, plural, genitive.", analysis_morphologicus_zh: "名詞。陰性，複數，屬格。", significationes: {es: "de sediciones", en: "of seditions", zh: "煽動叛亂的"}},
+                        {id_verbi: "v18_6", terminus: "suspiciones", analysis_morphologicus: "Sustantivo. Femenino, plural, acusativo.", analysis_morphologicus_en: "Noun. Feminine, plural, accusative.", analysis_morphologicus_zh: "名詞。陰性，複數，賓格。", significationes: {es: "sospechas", en: "suspicions", zh: "懷疑"}},
+                        {id_verbi: "v18_7", terminus: "C.", analysis_morphologicus: "Praenomen.", analysis_morphologicus_en: "Praenomen.", analysis_morphologicus_zh: "個人名。", significationes: {es: "Gayo", en: "Gaius", zh: "蓋烏斯"}},
+                        {id_verbi: "v18_8", terminus: "Gracchus,", terminus_verus: "Gracchus", analysis_morphologicus: "Sustantivo. Masculino, singular, nominativo. Sujeto.", analysis_morphologicus_en: "Noun. Masculine, singular, nominative. Subject.", analysis_morphologicus_zh: "名詞。陽性，單數，主格。主語。", significationes: {es: "Graco", en: "Gracchus", zh: "格拉古"}},
+                        {id_verbi: "v18_9", terminus: "clarissimo", analysis_morphologicus: "Adjetivo (Superlativo). Masculino, singular, ablativo.", analysis_morphologicus_en: "Adjective (Superlative). Masculine, singular, ablative.", analysis_morphologicus_zh: "形容詞 (最高級)。陽性，單數，奪格。", significationes: {es: "ilustrísimo", en: "most illustrious", zh: "最顯赫的"}},
+                        {id_verbi: "v18_10", terminus: "patre,", terminus_verus: "patre", analysis_morphologicus: "Sustantivo. Masculino, singular, ablativo. Ablativo de origen.", analysis_morphologicus_en: "Noun. Masculine, singular, ablative. Ablative of origin.", analysis_morphologicus_zh: "名詞。陽性，單數，奪格。來源奪格。", significationes: {es: "padre", en: "father", zh: "父親"}},
+                        {id_verbi: "v18_11", terminus: "auo,", terminus_verus: "auo", analysis_morphologicus: "Sustantivo. Masculino, singular, ablativo.", analysis_morphologicus_en: "Noun. Masculine, singular, ablative.", analysis_morphologicus_zh: "名詞。陽性，單數，奪格。", significationes: {es: "abuelo", en: "grandfather", zh: "祖父"}},
+                        {id_verbi: "v18_12", terminus: "maioribus,", terminus_verus: "maioribus", analysis_morphologicus: "Sustantivo. Masculino, plural, ablativo.", analysis_morphologicus_en: "Noun. Masculine, plural, ablative.", analysis_morphologicus_zh: "名詞。陽性，複數，奪格。", significationes: {es: "antepasados", en: "ancestors", zh: "先人"}},
+                        {id_verbi: "v18_13", terminus: "occisus", analysis_morphologicus: "Participio perfecto pasivo de occido.", analysis_morphologicus_en: "Perfect passive participle of occido.", analysis_morphologicus_zh: "occido 的完成被動分詞。", significationes: {es: "matado", en: "slain", zh: "被殺害"}},
+                        {id_verbi: "v18_14", terminus: "cum", analysis_morphologicus: "Preposición. Rige ablativo (con).", analysis_morphologicus_en: "Preposition. Takes ablative (with).", analysis_morphologicus_zh: "介詞。接奪格 (和…一起)。", significationes: {es: "con", en: "with", zh: "和"}},
+                        {id_verbi: "v18_15", terminus: "liberis", analysis_morphologicus: "Sustantivo. Masculino, plural, ablativo.", analysis_morphologicus_en: "Noun. Masculine, plural, ablative.", analysis_morphologicus_zh: "名詞。陽性，複數，奪格。", significationes: {es: "hijos", en: "children", zh: "孩子們"}},
+                        {id_verbi: "v18_16", terminus: "M.", analysis_morphologicus: "Praenomen.", analysis_morphologicus_en: "Praenomen.", analysis_morphologicus_zh: "個人名。", significationes: {es: "Marco", en: "Marcus", zh: "馬爾庫斯"}},
+                        {id_verbi: "v18_17", terminus: "Fuluius", analysis_morphologicus: "Sustantivo. Masculino, singular, nominativo. Sujeto.", analysis_morphologicus_en: "Noun. Masculine, singular, nominative. Subject.", analysis_morphologicus_zh: "名詞。陽性，單數，主格。主語。", significationes: {es: "Fulvio", en: "Fulvius", zh: "富爾維烏斯"}},
+                        {id_verbi: "v18_18", terminus: "consularis.", terminus_verus: "consularis", analysis_morphologicus: "Adjetivo (sustantivado). Masculino, singular, nominativo. Aposición (ex-cónsul).", analysis_morphologicus_en: "Adjective (substantivized). Masculine, singular, nominative. In apposition (ex-consul).", analysis_morphologicus_zh: "形容詞 (名詞化)。陽性，單數，主格。同位語 (前執政官)。", significationes: {es: "consular", en: "ex-consul", zh: "前執政官"}}
+                    ]
+                },
+                {
+                    id_orationis: 'o19',
+                    textus_latinus: "Simili senatus consulto C. Mario et L. Valerio consulibus est permissa res publica: num unum diem postea L. Saturninum tribunum plebis et C. Seruilium praetorem mors ac rei publicae poena remorata est?",
+                    translationes: {
+                        en: 'By a similar decree of the senate the republic was entrusted to Gaius Marius and Lucius Valerius, the consuls: surely death and the punishment of the republic did not keep Lucius Saturninus, tribune of the plebs, and Gaius Servilius, the praetor, waiting for a single day afterwards, did it?',
+                        es: 'Por un decreto similar del senado, la república fue confiada a los cónsules Gayo Mario y Lucio Valerio: ¿acaso la muerte y el castigo de la república hicieron esperar después un solo día a Lucio Saturnino, tribuno de la plebe, y a Gayo Servilio, el pretor?',
+                        zh: '根據一項類似的元老院決議，共和國被託付給了執政官蓋烏斯·馬略和盧基烏斯·瓦萊里烏斯：難道死亡和共和國的懲罰，在此後曾讓護民官盧基烏斯·薩圖尼努斯和裁判官蓋烏斯·塞爾維利烏斯多等過一天嗎？'
+                    },
+                    verba: [
+                        {id_verbi: "v19_1", terminus: "Simili", analysis_morphologicus: "Adjetivo. Neutro, singular, ablativo. Ablativo de medio.", analysis_morphologicus_en: "Adjective. Neuter, singular, ablative. Ablative of means.", analysis_morphologicus_zh: "形容詞。中性，單數，奪格。工具奪格。", significationes: {es: "por un similar", en: "by a similar", zh: "根據類似的"}},
+                        {id_verbi: "v19_2", terminus: "consulto", analysis_morphologicus: "Sustantivo. Neutro, singular, ablativo.", analysis_morphologicus_en: "Noun. Neuter, singular, ablative.", analysis_morphologicus_zh: "名詞。中性，單數，奪格。", significationes: {es: "decreto", en: "decree", zh: "法令"}},
+                        {id_verbi: "v19_3", terminus: "C.", analysis_morphologicus: "Praenomen.", analysis_morphologicus_en: "Praenomen.", analysis_morphologicus_zh: "個人名。", significationes: {es: "Gayo", en: "Gaius", zh: "蓋烏斯"}},
+                        {id_verbi: "v19_4", terminus: "Mario", analysis_morphologicus: "Sustantivo. Masculino, singular, dativo.", analysis_morphologicus_en: "Noun. Masculine, singular, dative.", analysis_morphologicus_zh: "名詞。陽性，單數，與格。", significationes: {es: "a Mario", en: "to Marius", zh: "給馬略"}},
+                        {id_verbi: "v19_5", terminus: "et", analysis_morphologicus: "Conjunción.", analysis_morphologicus_en: "Conjunction.", analysis_morphologicus_zh: "連詞。", significationes: {es: "y", en: "and", zh: "和"}},
+                        {id_verbi: "v19_6", terminus: "L.", analysis_morphologicus: "Praenomen.", analysis_morphologicus_en: "Praenomen.", analysis_morphologicus_zh: "個人名。", significationes: {es: "Lucio", en: "Lucius", zh: "盧基烏斯"}},
+                        {id_verbi: "v19_7", terminus: "Valerio", analysis_morphologicus: "Sustantivo. Masculino, singular, dativo.", analysis_morphologicus_en: "Noun. Masculine, singular, dative.", analysis_morphologicus_zh: "名詞。陽性，單數，與格。", significationes: {es: "a Valerio", en: "to Valerius", zh: "給瓦萊里烏斯"}},
+                        {id_verbi: "v19_8", terminus: "consulibus", analysis_morphologicus: "Sustantivo. Masculino, plural, dativo. Aposición.", analysis_morphologicus_en: "Noun. Masculine, plural, dative. In apposition.", analysis_morphologicus_zh: "名詞。陽性，複數，與格。同位語。", significationes: {es: "a los cónsules", en: "to the consuls", zh: "給執政官"}},
+                        {id_verbi: "v19_9", terminus: "permissa", analysis_morphologicus: "Participio perfecto pasivo de permitto.", analysis_morphologicus_en: "Perfect passive participle of permitto.", analysis_morphologicus_zh: "permitto 的完成被動分詞。", significationes: {es: "confiada", en: "entrusted", zh: "被託付"}},
+                        {id_verbi: "v19_10", terminus: "num", analysis_morphologicus: "Adverbio interrogativo. (espera respuesta negativa).", analysis_morphologicus_en: "Interrogative adverb. (expects negative answer).", analysis_morphologicus_zh: "疑問副詞。(預期否定回答)。", significationes: {es: "¿acaso?", en: "surely... not?", zh: "難道？"}},
+                        {id_verbi: "v19_11", terminus: "unum", analysis_morphologicus: "Numeral. Masculino, singular, acusativo.", analysis_morphologicus_en: "Numeral. Masculine, singular, accusative.", analysis_morphologicus_zh: "數詞。陽性，單數，賓格。", significationes: {es: "un", en: "one", zh: "一"}},
+                        {id_verbi: "v19_12", terminus: "diem", analysis_morphologicus: "Sustantivo. Masculino, singular, acusativo. Duración de tiempo.", analysis_morphologicus_en: "Noun. Masculine, singular, accusative. Duration of time.", analysis_morphologicus_zh: "名詞。陽性，單數，賓格。時間延續。", significationes: {es: "día", en: "day", zh: "天"}},
+                        {id_verbi: "v19_13", terminus: "postea", analysis_morphologicus: "Adverbio. (después).", analysis_morphologicus_en: "Adverb. (afterwards).", analysis_morphologicus_zh: "副詞。(之後)。", significationes: {es: "después", en: "afterwards", zh: "之後"}},
+                        {id_verbi: "v19_14", terminus: "L.", analysis_morphologicus: "Praenomen.", analysis_morphologicus_en: "Praenomen.", analysis_morphologicus_zh: "個人名。", significationes: {es: "Lucio", en: "Lucius", zh: "盧基烏斯"}},
+                        {id_verbi: "v19_15", terminus: "Saturninum", analysis_morphologicus: "Sustantivo. Masculino, singular, acusativo. Objeto directo.", analysis_morphologicus_en: "Noun. Masculine, singular, accusative. Direct object.", analysis_morphologicus_zh: "名詞。陽性，單數，賓格。直接賓語。", significationes: {es: "a Saturnino", en: "Saturninus", zh: "薩圖尼努斯"}},
+                        {id_verbi: "v19_16", terminus: "tribunum", analysis_morphologicus: "Sustantivo. Masculino, singular, acusativo. Aposición.", analysis_morphologicus_en: "Noun. Masculine, singular, accusative. In apposition.", analysis_morphologicus_zh: "名詞。陽性，單數，賓格。同位語。", significationes: {es: "tribuno", en: "tribune", zh: "護民官"}},
+                        {id_verbi: "v19_17", terminus: "plebis", analysis_morphologicus: "Sustantivo. Femenino, singular, genitivo.", analysis_morphologicus_en: "Noun. Feminine, singular, genitive.", analysis_morphologicus_zh: "名詞。陰性，單數，屬格。", significationes: {es: "de la plebe", en: "of the plebs", zh: "平民的"}},
+                        {id_verbi: "v19_18", terminus: "C.", analysis_morphologicus: "Praenomen.", analysis_morphologicus_en: "Praenomen.", analysis_morphologicus_zh: "個人名。", significationes: {es: "Gayo", en: "Gaius", zh: "蓋烏斯"}},
+                        {id_verbi: "v19_19", terminus: "Seruilium", analysis_morphologicus: "Sustantivo. Masculino, singular, acusativo. Objeto directo.", analysis_morphologicus_en: "Noun. Masculine, singular, accusative. Direct object.", analysis_morphologicus_zh: "名詞。陽性，單數，賓格。直接賓語。", significationes: {es: "a Servilio", en: "Servilius", zh: "塞爾維利烏斯"}},
+                        {id_verbi: "v19_20", terminus: "praetorem", analysis_morphologicus: "Sustantivo. Masculino, singular, acusativo. Aposición.", analysis_morphologicus_en: "Noun. Masculine, singular, accusative. In apposition.", analysis_morphologicus_zh: "名詞。陽性，單數，賓格。同位語。", significationes: {es: "pretor", en: "praetor", zh: "裁判官"}},
+                        {id_verbi: "v19_21", terminus: "mors", analysis_morphologicus: "Sustantivo. Femenino, singular, nominativo. Sujeto.", analysis_morphologicus_en: "Noun. Feminine, singular, nominative. Subject.", analysis_morphologicus_zh: "名詞。陰性，單數，主格。主語。", significationes: {es: "la muerte", en: "death", zh: "死亡"}},
+                        {id_verbi: "v19_22", terminus: "poena", analysis_morphologicus: "Sustantivo. Femenino, singular, nominativo. Sujeto.", analysis_morphologicus_en: "Noun. Feminine, singular, nominative. Subject.", analysis_morphologicus_zh: "名詞。陰性，單數，主格。主語。", significationes: {es: "el castigo", en: "the punishment", zh: "懲罰"}},
+                        {id_verbi: "v19_23", terminus: "remorata", analysis_morphologicus: "Participio perfecto de remoror.", analysis_morphologicus_en: "Perfect participle of remoror.", analysis_morphologicus_zh: "remoror 的完成分詞。", significationes: {es: "retrasó", en: "delayed", zh: "耽擱"}},
+                    ]
+                },
+                {
+                    id_orationis: 'o20',
+                    textus_latinus: "At uero nos uicesimum iam diem patimur hebescere aciem horum auctoritatis.",
+                    translationes: {
+                        en: 'But indeed, we have now for the twentieth day been allowing the edge of these men\'s authority to grow dull.',
+                        es: 'Pero en verdad, nosotros ya por vigésimo día permitimos que se embote el filo de la autoridad de estos.',
+                        zh: '然而，事實上，我們至今已是第二十天，仍然容忍這些人權威的鋒芒變得遲鈍。'
+                    },
+                    verba: [
+                        {id_verbi: "v20_1", terminus: "At", analysis_morphologicus: "Conjunción. (Pero).", analysis_morphologicus_en: "Conjunction. (But).", analysis_morphologicus_zh: "連詞。(但是)。", significationes: {es: "pero", en: "but", zh: "但是"}},
+                        {id_verbi: "v20_2", terminus: "uero", analysis_morphologicus: "Adverbio. (en verdad).", analysis_morphologicus_en: "Adverb. (indeed).", analysis_morphologicus_zh: "副詞。(的確)。", significationes: {es: "en verdad", en: "indeed", zh: "的確"}},
+                        {id_verbi: "v20_3", terminus: "nos", analysis_morphologicus: "Pronombre personal. Plural, nominativo. Sujeto.", analysis_morphologicus_en: "Personal pronoun. Plural, nominative. Subject.", analysis_morphologicus_zh: "人稱代詞。複數，主格。主語。", significationes: {es: "nosotros", en: "we", zh: "我們"}},
+                        {id_verbi: "v20_4", terminus: "uicesimum", analysis_morphologicus: "Adjetivo numeral ordinal. Masculino, singular, acusativo.", analysis_morphologicus_en: "Ordinal numeral adjective. Masculine, singular, accusative.", analysis_morphologicus_zh: "序數形容詞。陽性，單數，賓格。", significationes: {es: "vigésimo", en: "twentieth", zh: "第二十"}},
+                        {id_verbi: "v20_5", terminus: "iam", analysis_morphologicus: "Adverbio. (ya).", analysis_morphologicus_en: "Adverb. (now, already).", analysis_morphologicus_zh: "副詞。(已經)。", significationes: {es: "ya", en: "now", zh: "已經"}},
+                        {id_verbi: "v20_6", terminus: "diem", analysis_morphologicus: "Sustantivo. Masculino, singular, acusativo. Duración de tiempo.", analysis_morphologicus_en: "Noun. Masculine, singular, accusative. Duration of time.", analysis_morphologicus_zh: "名詞。陽性，單數，賓格。時間延續。", significationes: {es: "día", en: "day", zh: "天"}},
+                        {id_verbi: "v20_7", terminus: "patimur", analysis_morphologicus: "Verbo. 1ª p. plural presente de indicativo. Deponente (patior).", analysis_morphologicus_en: "Verb. 1st p. plural present indicative. Deponent (patior).", analysis_morphologicus_zh: "動詞。第一人稱複數現在時直陳式。異態動詞 (patior)。", significationes: {es: "permitimos", en: "we allow", zh: "我們容忍"}},
+                        {id_verbi: "v20_8", terminus: "hebescere", analysis_morphologicus: "Verbo. Infinitivo presente activo (hebesco).", analysis_morphologicus_en: "Verb. Present active infinitive (hebesco).", analysis_morphologicus_zh: "動詞。現在時主動不定式 (hebesco)。", significationes: {es: "embotarse", en: "to grow dull", zh: "變鈍"}},
+                        {id_verbi: "v20_9", terminus: "aciem", analysis_morphologicus: "Sustantivo. Femenino, singular, acusativo. Sujeto de hebescere.", analysis_morphologicus_en: "Noun. Feminine, singular, accusative. Subject of hebescere.", analysis_morphologicus_zh: "名詞。陰性，單數，賓格。hebescere 的主語。", significationes: {es: "el filo", en: "the edge", zh: "鋒芒"}},
+                        {id_verbi: "v20_10", terminus: "horum", analysis_morphologicus: "Pronombre demostrativo. Masculino, plural, genitivo.", analysis_morphologicus_en: "Demonstrative pronoun. Masculine, plural, genitive.", analysis_morphologicus_zh: "指示代詞。陽性，複數，屬格。", significationes: {es: "de estos", en: "of these men", zh: "這些人的"}},
+                        {id_verbi: "v20_11", terminus: "auctoritatis.", terminus_verus: "auctoritatis", analysis_morphologicus: "Sustantivo. Femenino, singular, genitivo.", analysis_morphologicus_en: "Noun. Feminine, singular, genitive.", analysis_morphologicus_zh: "名詞。陰性，單數，屬格。", significationes: {es: "de la autoridad", en: "of authority", zh: "權威的"}}
+                    ]
+                },
+                {
+                    id_orationis: 'o21',
+                    textus_latinus: "Habemus enim eius modi senatus consultum, uerum inclusum in tabulis, tamquam in uagina reconditum, quo ex senatus consulto confestim te interfectum esse, Catilina, conuenit.",
+                    translationes: {
+                        en: 'For we have a decree of the senate of this kind, but enclosed in the records, hidden as if in a sheath, according to which decree it was fitting, Catiline, that you be killed immediately.',
+                        es: 'Pues tenemos un senadoconsulto de este tipo, pero encerrado en los archivos, escondido como en una vaina, y según este senadoconsulto convenía, Catilina, que tú fueras muerto al instante.',
+                        zh: '因為我們有這樣一項元老院決議，但它被封存在檔案裡，如同藏在劍鞘中一樣。根據這項決議，喀提林，你本應立即被處死。'
+                    },
+                    verba: [
+                        {id_verbi: "v21_1", terminus: "Habemus", analysis_morphologicus: "Verbo. 1ª p. plural presente activo indicativo.", analysis_morphologicus_en: "Verb. 1st p. plural present active indicative.", analysis_morphologicus_zh: "動詞。第一人稱複數現在時主動直陳式。", significationes: {es: "tenemos", en: "we have", zh: "我們有"}},
+                        {id_verbi: "v21_2", terminus: "enim", analysis_morphologicus: "Conjunción. (pues, en efecto).", analysis_morphologicus_en: "Conjunction. (for, indeed).", analysis_morphologicus_zh: "連詞。(因為，的確)。", significationes: {es: "pues", en: "for", zh: "因為"}},
+                        {id_verbi: "v21_3", terminus: "eius", analysis_morphologicus: "Pronombre. Genitivo.", analysis_morphologicus_en: "Pronoun. Genitive.", analysis_morphologicus_zh: "代詞。屬格。", significationes: {es: "de este", en: "of this", zh: "這種"}},
+                        {id_verbi: "v21_4", terminus: "modi", analysis_morphologicus: "Sustantivo. Masculino, singular, genitivo. Genitivo de descripción.", analysis_morphologicus_en: "Noun. Masculine, singular, genitive. Genitive of description.", analysis_morphologicus_zh: "名詞。陽性，單數，屬格。描述屬格。", significationes: {es: "tipo", en: "kind", zh: "類型"}},
+                        {id_verbi: "v21_5", terminus: "uerum", analysis_morphologicus: "Conjunción. (pero).", analysis_morphologicus_en: "Conjunction. (but).", analysis_morphologicus_zh: "連詞。(但是)。", significationes: {es: "pero", en: "but", zh: "但是"}},
+                        {id_verbi: "v21_6", terminus: "inclusum", analysis_morphologicus: "Participio perfecto pasivo. Neutro, singular, acusativo.", analysis_morphologicus_en: "Perfect passive participle. Neuter, singular, accusative.", analysis_morphologicus_zh: "完成被動分詞。中性，單數，賓格。", significationes: {es: "encerrado", en: "enclosed", zh: "被封存"}},
+                        {id_verbi: "v21_7", terminus: "in", analysis_morphologicus: "Preposición. Rige ablativo (en).", analysis_morphologicus_en: "Preposition. Takes ablative (in).", analysis_morphologicus_zh: "介詞。接奪格 (在…裡)。", significationes: {es: "en", en: "in", zh: "在"}},
+                        {id_verbi: "v21_8", terminus: "tabulis,", terminus_verus: "tabulis", analysis_morphologicus: "Sustantivo. Femenino, plural, ablativo.", analysis_morphologicus_en: "Noun. Feminine, plural, ablative.", analysis_morphologicus_zh: "名詞。陰性，複數，奪格。", significationes: {es: "los archivos", en: "the records", zh: "檔案裡"}},
+                        {id_verbi: "v21_9", terminus: "tamquam", analysis_morphologicus: "Adverbio. (como si, como).", analysis_morphologicus_en: "Adverb. (as if, like).", analysis_morphologicus_zh: "副詞。(好像，如同)。", significationes: {es: "como", en: "as if", zh: "如同"}},
+                        {id_verbi: "v21_10", terminus: "uagina", analysis_morphologicus: "Sustantivo. Femenino, singular, ablativo.", analysis_morphologicus_en: "Noun. Feminine, singular, ablative.", analysis_morphologicus_zh: "名詞。陰性，單數，奪格。", significationes: {es: "una vaina", en: "a sheath", zh: "劍鞘"}},
+                        {id_verbi: "v21_11", terminus: "reconditum,", terminus_verus: "reconditum", analysis_morphologicus: "Participio perfecto pasivo. Neutro, singular, acusativo.", analysis_morphologicus_en: "Perfect passive participle. Neuter, singular, accusative.", analysis_morphologicus_zh: "完成被動分詞。中性，單數，賓格。", significationes: {es: "escondido", en: "hidden", zh: "被隱藏"}},
+                        {id_verbi: "v21_12", terminus: "quo", analysis_morphologicus: "Pronombre relativo. Neutro, singular, ablativo.", analysis_morphologicus_en: "Relative pronoun. Neuter, singular, ablative.", analysis_morphologicus_zh: "關係代詞。中性，單數，奪格。", significationes: {es: "según el cual", en: "according to which", zh: "根據那個"}},
+                        {id_verbi: "v21_13", terminus: "ex", analysis_morphologicus: "Preposición. Rige ablativo (según, de).", analysis_morphologicus_en: "Preposition. Takes ablative (from, according to).", analysis_morphologicus_zh: "介詞。接奪格 (從，根據)。", significationes: {es: "según", en: "from", zh: "根據"}},
+                        {id_verbi: "v21_14", terminus: "confestim", analysis_morphologicus: "Adverbio. (inmediatamente).", analysis_morphologicus_en: "Adverb. (immediately).", analysis_morphologicus_zh: "副詞。(立即)。", significationes: {es: "al instante", en: "immediately", zh: "立即"}},
+                        {id_verbi: "v21_15", terminus: "interfectum", analysis_morphologicus: "Participio perfecto pasivo.", analysis_morphologicus_en: "Perfect passive participle.", analysis_morphologicus_zh: "完成被動分詞。", significationes: {es: "muerto", en: "killed", zh: "被殺"}},
+                        {id_verbi: "v21_16", terminus: "conuenit.", terminus_verus: "conuenit", analysis_morphologicus: "Verbo. 3ª p. sing. perfecto activo indicativo (convenio). Impersonal.", analysis_morphologicus_en: "Verb. 3rd p. sing. perfect active indicative (convenio). Impersonal.", analysis_morphologicus_zh: "動詞。第三人稱單數完成時主動直陳式 (convenio)。無人稱。", significationes: {es: "convenía", en: "it was fitting", zh: "本應"}}
+                    ]
+                },
+                {
+                    id_orationis: 'o22',
+                    textus_latinus: "Viuis, et uiuis non ad deponendam, sed ad confirmandam audaciam.",
+                    translationes: {
+                        en: 'You live, and you live not to lay aside your audacity, but to strengthen it.',
+                        es: 'Vives, y vives no para deponer tu audacia, sino para confirmarla.',
+                        zh: '你活著，而且你活著不是為了放下你的無恥，而是為了鞏固它。'
+                    },
+                    verba: [
+                        {id_verbi: "v22_1", terminus: "Viuis,", terminus_verus: "Viuis", analysis_morphologicus: "Verbo. 2ª p. sing. presente activo indicativo (vivo).", analysis_morphologicus_en: "Verb. 2nd p. sing. present active indicative (vivo).", analysis_morphologicus_zh: "動詞。第二人稱單數現在時主動直陳式 (vivo)。", significationes: {es: "vives", en: "you live", zh: "你活著"}},
+                        {id_verbi: "v22_2", terminus: "et", analysis_morphologicus: "Conjunción.", analysis_morphologicus_en: "Conjunction.", analysis_morphologicus_zh: "連詞。", significationes: {es: "y", en: "and", zh: "而且"}},
+                        {id_verbi: "v22_3", terminus: "uiuis", analysis_morphologicus: "Verbo. 2ª p. sing. presente activo indicativo (vivo).", analysis_morphologicus_en: "Verb. 2nd p. sing. present active indicative (vivo).", analysis_morphologicus_zh: "動詞。第二人稱單數現在時主動直陳式 (vivo)。", significationes: {es: "vives", en: "you live", zh: "你活著"}},
+                        {id_verbi: "v22_4", terminus: "non", analysis_morphologicus: "Adverbio. Negación.", analysis_morphologicus_en: "Adverb. Negation.", analysis_morphologicus_zh: "副詞。否定詞。", significationes: {es: "no", en: "not", zh: "不是"}},
+                        {id_verbi: "v22_5", terminus: "ad", analysis_morphologicus: "Preposición. Rige acusativo (para).", analysis_morphologicus_en: "Preposition. Takes accusative (for).", analysis_morphologicus_zh: "介詞。接賓格 (為了)。", significationes: {es: "para", en: "for", zh: "為了"}},
+                        {id_verbi: "v22_6", terminus: "deponendam,", terminus_verus: "deponendam", analysis_morphologicus: "Gerundivo. Femenino, singular, acusativo. Finalidad.", analysis_morphologicus_en: "Gerundive. Feminine, singular, accusative. Purpose.", analysis_morphologicus_zh: "動形容詞。陰性，單數，賓格。目的。", significationes: {es: "deponer", en: "laying aside", zh: "放下"}},
+                        {id_verbi: "v22_7", terminus: "sed", analysis_morphologicus: "Conjunción. (sino).", analysis_morphologicus_en: "Conjunction. (but).", analysis_morphologicus_zh: "連詞。(而是)。", significationes: {es: "sino", en: "but", zh: "而是"}},
+                        {id_verbi: "v22_8", terminus: "confirmandam", analysis_morphologicus: "Gerundivo. Femenino, singular, acusativo. Finalidad.", analysis_morphologicus_en: "Gerundive. Feminine, singular, accusative. Purpose.", analysis_morphologicus_zh: "動形容詞。陰性，單數，賓格。目的。", significationes: {es: "confirmar", en: "strengthening", zh: "鞏固"}},
+                        {id_verbi: "v22_9", terminus: "audaciam.", terminus_verus: "audaciam", analysis_morphologicus: "Sustantivo. Femenino, singular, acusativo.", analysis_morphologicus_en: "Noun. Feminine, singular, accusative.", analysis_morphologicus_zh: "名詞。陰性，單數，賓格。", significationes: {es: "la audacia", en: "audacity", zh: "無恥"}}
+                    ]
+                },
+                {
+                    id_orationis: 'o23',
+                    textus_latinus: "Cupio, patres conscripti, me esse clementem, cupio in tantis rei publicae periculis non dissolutum uideri, sed iam me ipse inertiae nequitiaeque condemno.",
+                    translationes: {
+                        en: 'I desire, conscript fathers, to be merciful; I desire not to seem remiss in the midst of such great dangers to the republic, but I now condemn myself for inaction and worthlessness.',
+                        es: 'Deseo, padres conscriptos, ser clemente; deseo no parecer negligente en medio de tan grandes peligros para la república, pero ya yo mismo me condeno por inercia y maldad.',
+                        zh: '元老院的各位議員，我渴望仁慈；我渴望在共和國面臨如此巨大危險之時，不顯得懈怠。但我現在已因自己的無所作為和無能而譴責自己。'
+                    },
+                    verba: [
+                        {id_verbi: "v23_1", terminus: "Cupio,", terminus_verus: "Cupio", analysis_morphologicus: "Verbo. 1ª p. sing. presente activo indicativo (cupio).", analysis_morphologicus_en: "Verb. 1st p. sing. present active indicative (cupio).", analysis_morphologicus_zh: "動詞。第一人稱單數現在時主動直陳式 (cupio)。", significationes: {es: "deseo", en: "I desire", zh: "我渴望"}},
+                        {id_verbi: "v23_2", terminus: "patres", analysis_morphologicus: "Sustantivo. Masculino, plural, vocativo.", analysis_morphologicus_en: "Noun. Masculine, plural, vocative.", analysis_morphologicus_zh: "名詞。陽性，複數，呼格。", significationes: {es: "padres", en: "fathers", zh: "議員們"}},
+                        {id_verbi: "v23_3", terminus: "conscripti,", terminus_verus: "conscripti", analysis_morphologicus: "Adjetivo. Masculino, plural, vocativo.", analysis_morphologicus_en: "Adjective. Masculine, plural, vocative.", analysis_morphologicus_zh: "形容詞。陽性，複數，呼格。", significationes: {es: "conscriptos", en: "conscript", zh: "登記在冊的"}},
+                        {id_verbi: "v23_4", terminus: "me", analysis_morphologicus: "Pronombre personal. Singular, acusativo. Sujeto de infinitivo.", analysis_morphologicus_en: "Personal pronoun. Singular, accusative. Subject of infinitive.", analysis_morphologicus_zh: "人稱代詞。單數，賓格。不定式主語。", significationes: {es: "que yo", en: "that I", zh: "我"}},
+                        {id_verbi: "v23_5", terminus: "esse", analysis_morphologicus: "Verbo. Infinitivo presente activo (sum).", analysis_morphologicus_en: "Verb. Present active infinitive (sum).", analysis_morphologicus_zh: "動詞。現在時主動不定式 (sum)。", significationes: {es: "sea", en: "be", zh: "是"}},
+                        {id_verbi: "v23_6", terminus: "clementem,", terminus_verus: "clementem", analysis_morphologicus: "Adjetivo. Masculino, singular, acusativo.", analysis_morphologicus_en: "Adjective. Masculine, singular, accusative.", analysis_morphologicus_zh: "形容詞。陽性，單數，賓格。", significationes: {es: "clemente", en: "merciful", zh: "仁慈的"}},
+                        {id_verbi: "v23_7", terminus: "in", analysis_morphologicus: "Preposición. Rige ablativo (en).", analysis_morphologicus_en: "Preposition. Takes ablative (in).", analysis_morphologicus_zh: "介詞。接奪格 (在…之中)。", significationes: {es: "en", en: "in", zh: "在"}},
+                        {id_verbi: "v23_8", terminus: "tantis", analysis_morphologicus: "Adjetivo. Neutro, plural, ablativo.", analysis_morphologicus_en: "Adjective. Neuter, plural, ablative.", analysis_morphologicus_zh: "形容詞。中性，複數，奪格。", significationes: {es: "tan grandes", en: "such great", zh: "如此巨大的"}},
+                        {id_verbi: "v23_9", terminus: "periculis", analysis_morphologicus: "Sustantivo. Neutro, plural, ablativo.", analysis_morphologicus_en: "Noun. Neuter, plural, ablative.", analysis_morphologicus_zh: "名詞。中性，複數，奪格。", significationes: {es: "peligros", en: "dangers", zh: "危險"}},
+                        {id_verbi: "v23_10", terminus: "dissolutum", analysis_morphologicus: "Adjetivo. Masculino, singular, acusativo.", analysis_morphologicus_en: "Adjective. Masculine, singular, accusative.", analysis_morphologicus_zh: "形容詞。陽性，單數，賓格。", significationes: {es: "negligente", en: "remiss", zh: "懈怠的"}},
+                        {id_verbi: "v23_11", terminus: "uideri,", terminus_verus: "uideri", analysis_morphologicus: "Verbo. Infinitivo presente pasivo (video - 'parecer').", analysis_morphologicus_en: "Verb. Present passive infinitive (video - 'to seem').", analysis_morphologicus_zh: "動詞。現在時被動不定式 (video - '似乎')。", significationes: {es: "parecer", en: "to seem", zh: "顯得"}},
+                        {id_verbi: "v23_12", terminus: "sed", analysis_morphologicus: "Conjunción.", analysis_morphologicus_en: "Conjunction.", analysis_morphologicus_zh: "連詞。", significationes: {es: "pero", en: "but", zh: "但是"}},
+                        {id_verbi: "v23_13", terminus: "iam", analysis_morphologicus: "Adverbio.", analysis_morphologicus_en: "Adverb.", analysis_morphologicus_zh: "副詞。", significationes: {es: "ya", en: "now", zh: "現在"}},
+                        {id_verbi: "v23_14", terminus: "ipse", analysis_morphologicus: "Pronombre intensivo. Masculino, singular, nominativo.", analysis_morphologicus_en: "Intensive pronoun. Masculine, singular, nominative.", analysis_morphologicus_zh: "強調代詞。陽性，單數，主格。", significationes: {es: "yo mismo", en: "I myself", zh: "我自己"}},
+                        {id_verbi: "v23_15", terminus: "inertiae", analysis_morphologicus: "Sustantivo. Femenino, singular, genitivo. Genitivo de la acusación.", analysis_morphologicus_en: "Noun. Feminine, singular, genitive. Genitive of the charge.", analysis_morphologicus_zh: "名詞。陰性，單數，屬格。罪名屬格。", significationes: {es: "de inercia", en: "of inaction", zh: "無所作為的"}},
+                        {id_verbi: "v23_16", terminus: "nequitiaeque", terminus_verus: "nequitiae", analysis_morphologicus: "Sustantivo + -que. Femenino, singular, genitivo.", analysis_morphologicus_en: "Noun + -que. Feminine, singular, genitive.", analysis_morphologicus_zh: "名詞 + -que。陰性，單數，屬格。", significationes: {es: "y de maldad", en: "and of worthlessness", zh: "和無能的"}},
+                        {id_verbi: "v23_17", terminus: "condemno.", terminus_verus: "condemno", analysis_morphologicus: "Verbo. 1ª p. sing. presente activo indicativo (condemno).", analysis_morphologicus_en: "Verb. 1st p. sing. present active indicative (condemno).", analysis_morphologicus_zh: "動詞。第一人稱單數現在時主動直陳式 (condemno)。", significationes: {es: "me condeno", en: "I condemn myself", zh: "我譴責自己"}}
+                    ]
+                },
+                {
+                    id_orationis: 'o24',
+                    textus_latinus: "Castra sunt in Italia contra populum Romanum in Etruriae faucibus conlocata.",
+                    translationes: {
+                        en: 'A camp has been set up in Italy against the Roman people in the passes of Etruria.',
+                        es: 'Un campamento ha sido establecido en Italia contra el pueblo romano en los desfiladeros de Etruria.',
+                        zh: '一個針對羅馬人民的營地已經在伊特魯里亞的隘口建立起來。'
+                    },
+                    verba: [
+                        {id_verbi: "v24_1", terminus: "Castra", analysis_morphologicus: "Sustantivo. Neutro, plural, nominativo. Sujeto.", analysis_morphologicus_en: "Noun. Neuter, plural, nominative. Subject.", analysis_morphologicus_zh: "名詞。中性，複數，主格。主語。", significationes: {es: "un campamento", en: "a camp", zh: "一個營地"}},
+                        {id_verbi: "v24_2", terminus: "sunt", analysis_morphologicus: "Verbo. 3ª p. plural presente activo indicativo (sum).", analysis_morphologicus_en: "Verb. 3rd p. plural present active indicative (sum).", analysis_morphologicus_zh: "動詞。第三人稱複數現在時主動直陳式 (sum)。", significationes: {es: "ha sido", en: "has been", zh: "已經"}},
+                        {id_verbi: "v24_3", terminus: "contra", analysis_morphologicus: "Preposición. Rige acusativo (contra).", analysis_morphologicus_en: "Preposition. Takes accusative (against).", analysis_morphologicus_zh: "介詞。接賓格 (反對)。", significationes: {es: "contra", en: "against", zh: "反對"}},
+                        {id_verbi: "v24_4", terminus: "populum", analysis_morphologicus: "Sustantivo. Masculino, singular, acusativo.", analysis_morphologicus_en: "Noun. Masculine, singular, accusative.", analysis_morphologicus_zh: "名詞。陽性，單數，賓格。", significationes: {es: "el pueblo", en: "the people", zh: "人民"}},
+                        {id_verbi: "v24_5", terminus: "Romanum", analysis_morphologicus: "Adjetivo. Masculino, singular, acusativo.", analysis_morphologicus_en: "Adjective. Masculine, singular, accusative.", analysis_morphologicus_zh: "形容詞。陽性，單數，賓格。", significationes: {es: "romano", en: "Roman", zh: "羅馬的"}},
+                        {id_verbi: "v24_6", terminus: "Etruriae", analysis_morphologicus: "Sustantivo. Femenino, singular, genitivo.", analysis_morphologicus_en: "Noun. Feminine, singular, genitive.", analysis_morphologicus_zh: "名詞。陰性，單數，屬格。", significationes: {es: "de Etruria", en: "of Etruria", zh: "伊特魯里亞的"}},
+                        {id_verbi: "v24_7", terminus: "faucibus", analysis_morphologicus: "Sustantivo. Femenino, plural, ablativo.", analysis_morphologicus_en: "Noun. Feminine, plural, ablative.", analysis_morphologicus_zh: "名詞。陰性，複數，奪格。", significationes: {es: "en los desfiladeros", en: "in the passes", zh: "在隘口"}},
+                        {id_verbi: "v24_8", terminus: "conlocata.", terminus_verus: "conlocata", analysis_morphologicus: "Participio perfecto pasivo. Neutro, plural, nominativo.", analysis_morphologicus_en: "Perfect passive participle. Neuter, plural, nominative.", analysis_morphologicus_zh: "完成被動分詞。中性，複數，主格。", significationes: {es: "establecido", en: "set up", zh: "建立"}}
+                    ]
+                },
+                {
+                    id_orationis: 'o25',
+                    textus_latinus: "Crescit in dies singulos hostium numerus; eorum autem castrorum imperatorem ducemque hostium intra moenia atque adeo in senatu uidetis intestinam aliquam cotidie perniciem rei publicae molientem.",
+                    translationes: {
+                        en: 'The number of the enemy increases day by day; moreover, you see the commander of those camps and the leader of the enemy within the walls and even in the senate, plotting some internal ruin for the republic daily.',
+                        es: 'El número de enemigos crece día a día; y además, veis al general de ese campamento y jefe de los enemigos dentro de nuestras murallas e incluso en el senado, tramando diariamente alguna destrucción interna para la república.',
+                        zh: '敵人的數量與日俱增；此外，你們在城牆內，甚至在元老院裡，看見那些營地的指揮官和敵人的領袖，每天都在為共和國策劃著某些內部的毀滅。'
+                    },
+                    verba: [
+                        {id_verbi: "v25_1", terminus: "Crescit", analysis_morphologicus: "Verbo. 3ª p. sing. presente activo indicativo (cresco).", analysis_morphologicus_en: "Verb. 3rd p. sing. present active indicative (cresco).", analysis_morphologicus_zh: "動詞。第三人稱單數現在時主動直陳式 (cresco)。", significationes: {es: "crece", en: "increases", zh: "增加"}},
+                        {id_verbi: "v25_2", terminus: "in", analysis_morphologicus: "Preposición. Rige acusativo.", analysis_morphologicus_en: "Preposition. Takes accusative.", analysis_morphologicus_zh: "介詞。接賓格。", significationes: {es: "día a", en: "day by", zh: "日復"}},
+                        {id_verbi: "v25_3", terminus: "dies", analysis_morphologicus: "Sustantivo. Masculino, plural, acusativo.", analysis_morphologicus_en: "Noun. Masculine, plural, accusative.", analysis_morphologicus_zh: "名詞。陽性，複數，賓格。", significationes: {es: "día", en: "day", zh: "日"}},
+                        {id_verbi: "v25_4", terminus: "singulos", analysis_morphologicus: "Adjetivo. Masculino, plural, acusativo.", analysis_morphologicus_en: "Adjective. Masculine, plural, accusative.", analysis_morphologicus_zh: "形容詞。陽性，複數，賓格。", significationes: {es: "", en: "", zh: ""}},
+                        {id_verbi: "v25_5", terminus: "hostium", analysis_morphologicus: "Sustantivo. Masculino, plural, genitivo.", analysis_morphologicus_en: "Noun. Masculine, plural, genitive.", analysis_morphologicus_zh: "名詞。陽性，複數，屬格。", significationes: {es: "de los enemigos", en: "of the enemy", zh: "敵人的"}},
+                        {id_verbi: "v25_6", terminus: "numerus;", terminus_verus: "numerus", analysis_morphologicus: "Sustantivo. Masculino, singular, nominativo. Sujeto.", analysis_morphologicus_en: "Noun. Masculine, singular, nominative. Subject.", analysis_morphologicus_zh: "名詞。陽性，單數，主格。主語。", significationes: {es: "el número", en: "the number", zh: "數量"}},
+                        {id_verbi: "v25_7", terminus: "eorum", analysis_morphologicus: "Pronombre. Masculino, plural, genitivo.", analysis_morphologicus_en: "Pronoun. Masculine, plural, genitive.", analysis_morphologicus_zh: "代詞。陽性，複數，屬格。", significationes: {es: "de esos", en: "of those", zh: "那些的"}},
+                        {id_verbi: "v25_8", terminus: "castrorum", analysis_morphologicus: "Sustantivo. Neutro, plural, genitivo.", analysis_morphologicus_en: "Noun. Neuter, plural, genitive.", analysis_morphologicus_zh: "名詞。中性，複數，屬格。", significationes: {es: "campamentos", en: "camps", zh: "營地的"}},
+                        {id_verbi: "v25_9", terminus: "imperatorem", analysis_morphologicus: "Sustantivo. Masculino, singular, acusativo. Objeto directo.", analysis_morphologicus_en: "Noun. Masculine, singular, accusative. Direct object.", analysis_morphologicus_zh: "名詞。陽性，單數，賓格。直接賓語。", significationes: {es: "al general", en: "the commander", zh: "指揮官"}},
+                        {id_verbi: "v25_10", terminus: "ducemque", terminus_verus: "ducem", analysis_morphologicus: "Sustantivo + -que. Masculino, singular, acusativo.", analysis_morphologicus_en: "Noun + -que. Masculine, singular, accusative.", analysis_morphologicus_zh: "名詞 + -que。陽性，單數，賓格。", significationes: {es: "y al jefe", en: "and the leader", zh: "和領袖"}},
+                        {id_verbi: "v25_11", terminus: "intra", analysis_morphologicus: "Preposición. Rige acusativo (dentro de).", analysis_morphologicus_en: "Preposition. Takes accusative (within).", analysis_morphologicus_zh: "介詞。接賓格 (在…之內)。", significationes: {es: "dentro de", en: "within", zh: "在…之內"}},
+                        {id_verbi: "v25_12", terminus: "moenia", analysis_morphologicus: "Sustantivo. Neutro, plural, acusativo.", analysis_morphologicus_en: "Noun. Neuter, plural, accusative.", analysis_morphologicus_zh: "名詞。中性，複數，賓格。", significationes: {es: "las murallas", en: "the walls", zh: "城牆"}},
+                        {id_verbi: "v25_13", terminus: "atque", analysis_morphologicus: "Conjunción.", analysis_morphologicus_en: "Conjunction.", analysis_morphologicus_zh: "連詞。", significationes: {es: "e incluso", en: "and even", zh: "甚至"}},
+                        {id_verbi: "v25_14", terminus: "adeo", analysis_morphologicus: "Adverbio.", analysis_morphologicus_en: "Adverb.", analysis_morphologicus_zh: "副詞。", significationes: {es: "", en: "indeed", zh: "的確"}},
+                        {id_verbi: "v25_15", terminus: "uidetis", analysis_morphologicus: "Verbo. 2ª p. plural presente activo indicativo (video).", analysis_morphologicus_en: "Verb. 2nd p. plural present active indicative (video).", analysis_morphologicus_zh: "動詞。第二人稱複數現在時主動直陳式 (video)。", significationes: {es: "veis", en: "you see", zh: "你們看見"}},
+                        {id_verbi: "v25_16", terminus: "intestinam", analysis_morphologicus: "Adjetivo. Femenino, singular, acusativo.", analysis_morphologicus_en: "Adjective. Feminine, singular, accusative.", analysis_morphologicus_zh: "形容詞。陰性，單數，賓格。", significationes: {es: "interna", en: "internal", zh: "內部的"}},
+                        {id_verbi: "v25_17", terminus: "aliquam", analysis_morphologicus: "Adjetivo indefinido. Femenino, singular, acusativo.", analysis_morphologicus_en: "Indefinite adjective. Feminine, singular, accusative.", analysis_morphologicus_zh: "不定形容詞。陰性，單數，賓格。", significationes: {es: "alguna", en: "some", zh: "某些"}},
+                        {id_verbi: "v25_18", terminus: "cotidie", analysis_morphologicus: "Adverbio. (diariamente).", analysis_morphologicus_en: "Adverb. (daily).", analysis_morphologicus_zh: "副詞。(每天)。", significationes: {es: "diariamente", en: "daily", zh: "每天"}},
+                        {id_verbi: "v25_19", terminus: "perniciem", analysis_morphologicus: "Sustantivo. Femenino, singular, acusativo. Objeto de molientem.", analysis_morphologicus_en: "Noun. Feminine, singular, accusative. Object of molientem.", analysis_morphologicus_zh: "名詞。陰性，單數，賓格。molientem 的賓語。", significationes: {es: "destrucción", en: "ruin", zh: "毀滅"}},
+                        {id_verbi: "v25_20", terminus: "molientem.", terminus_verus: "molientem", analysis_morphologicus: "Participio presente activo. Masculino, singular, acusativo.", analysis_morphologicus_en: "Present active participle. Masculine, singular, accusative.", analysis_morphologicus_zh: "現在主動分詞。陽性，單數，賓格。", significationes: {es: "tramando", en: "plotting", zh: "策劃"}}
+                    ]
+                },
+                {
+                    id_orationis: 'o26',
+                    textus_latinus: "Si te iam, Catilina, comprehendi, si interfici iussero, credo, erit uerendum mihi ne non hoc potius omnes boni serius a me quam quisquam crudelius factum esse dicat.",
+                    translationes: {
+                        en: 'If I order you now, Catiline, to be arrested, if I order you to be killed, I believe I will have to fear that all good men may say this was done by me too late rather than that anyone may say it was done too cruelly.',
+                        es: 'Si ordeno ahora, Catilina, que seas arrestado, si ordeno que seas matado, creo que tendré que temer que todos los buenos digan que esto fue hecho por mí demasiado tarde, en lugar de que alguien diga que fue hecho demasiado cruelmente.',
+                        zh: '喀提林，如果我現在下令逮捕你，下令殺死你，我相信，我將要擔心的，不是會有人說我做得太殘酷，而是所有善良的人都會說我做得太遲了。'
+                    },
+                    verba: [
+                        {id_verbi: "v26_1", terminus: "Si", analysis_morphologicus: "Conjunción.", analysis_morphologicus_en: "Conjunction.", analysis_morphologicus_zh: "連詞。", significationes: {es: "si", en: "if", zh: "如果"}},
+                        {id_verbi: "v26_2", terminus: "comprehendi,", terminus_verus: "comprehendi", analysis_morphologicus: "Verbo. Infinitivo presente pasivo (comprehendo).", analysis_morphologicus_en: "Verb. Present passive infinitive (comprehendo).", analysis_morphologicus_zh: "動詞。現在時被動不定式 (comprehendo)。", significationes: {es: "ser arrestado", en: "to be arrested", zh: "被逮捕"}},
+                        {id_verbi: "v26_3", terminus: "interfici", analysis_morphologicus: "Verbo. Infinitivo presente pasivo (interficio).", analysis_morphologicus_en: "Verb. Present passive infinitive (interficio).", analysis_morphologicus_zh: "動詞。現在時被動不定式 (interficio)。", significationes: {es: "ser matado", en: "to be killed", zh: "被殺死"}},
+                        {id_verbi: "v26_4", terminus: "iussero,", terminus_verus: "iussero", analysis_morphologicus: "Verbo. 1ª p. sing. futuro perfecto activo indicativo (iubeo).", analysis_morphologicus_en: "Verb. 1st p. sing. future perfect active indicative (iubeo).", analysis_morphologicus_zh: "動詞。第一人稱單數未來完成時主動直陳式 (iubeo)。", significationes: {es: "ordeno", en: "I order", zh: "我下令"}},
+                        {id_verbi: "v26_5", terminus: "credo,", terminus_verus: "credo", analysis_morphologicus: "Verbo. 1ª p. sing. presente activo indicativo (credo).", analysis_morphologicus_en: "Verb. 1st p. sing. present active indicative (credo).", analysis_morphologicus_zh: "動詞。第一人稱單數現在時主動直陳式 (credo)。", significationes: {es: "creo", en: "I believe", zh: "我相信"}},
+                        {id_verbi: "v26_6", terminus: "erit", analysis_morphologicus: "Verbo. 3ª p. sing. futuro activo indicativo (sum).", analysis_morphologicus_en: "Verb. 3rd p. sing. future active indicative (sum).", analysis_morphologicus_zh: "動詞。第三人稱單數未來時主動直陳式 (sum)。", significationes: {es: "habrá que", en: "it will be", zh: "將會"}},
+                        {id_verbi: "v26_7", terminus: "uerendum", analysis_morphologicus: "Gerundivo. Neutro, singular, nominativo. Perifrástica pasiva.", analysis_morphologicus_en: "Gerundive. Neuter, singular, nominative. Passive periphrastic.", analysis_morphologicus_zh: "動形容詞。中性，單數，主格。被動迂迴語態。", significationes: {es: "temer", en: "to be feared", zh: "要擔心"}},
+                        {id_verbi: "v26_8", terminus: "mihi", analysis_morphologicus: "Pronombre personal. Singular, dativo. Dativo de agente.", analysis_morphologicus_en: "Personal pronoun. Singular, dative. Dative of agent.", analysis_morphologicus_zh: "人稱代詞。單數，與格。施事與格。", significationes: {es: "por mí", en: "by me", zh: "由我"}},
+                        {id_verbi: "v26_9", terminus: "potius", analysis_morphologicus: "Adverbio comparativo.", analysis_morphologicus_en: "Comparative adverb.", analysis_morphologicus_zh: "比較級副詞。", significationes: {es: "más bien", en: "rather", zh: "寧可"}},
+                        {id_verbi: "v26_10", terminus: "serius", analysis_morphologicus: "Adverbio comparativo.", analysis_morphologicus_en: "Comparative adverb.", analysis_morphologicus_zh: "比較級副詞。", significationes: {es: "demasiado tarde", en: "too late", zh: "太遲"}},
+                        {id_verbi: "v26_11", terminus: "a", analysis_morphologicus: "Preposición. Rige ablativo (por).", analysis_morphologicus_en: "Preposition. Takes ablative (by).", analysis_morphologicus_zh: "介詞。接奪格 (由)。", significationes: {es: "por", en: "by", zh: "由"}},
+                        {id_verbi: "v26_12", terminus: "crudelius", analysis_morphologicus: "Adverbio comparativo.", analysis_morphologicus_en: "Comparative adverb.", analysis_morphologicus_zh: "比較級副詞。", significationes: {es: "demasiado cruelmente", en: "too cruelly", zh: "太殘酷"}},
+                        {id_verbi: "v26_13", terminus: "dicat.", terminus_verus: "dicat", analysis_morphologicus: "Verbo. 3ª p. sing. presente activo subjuntivo (dico). Cláusula de temor.", analysis_morphologicus_en: "Verb. 3rd p. sing. present active subjunctive (dico). Fear clause.", analysis_morphologicus_zh: "動詞。第三人稱單數現在時主動虛擬式 (dico)。恐怕從句。", significationes: {es: "diga", en: "may say", zh: "會說"}}
+                    ]
+                },
+                {
+                    id_orationis: 'o27',
+                    textus_latinus: "Verum ego hoc quod iam pridem factum esse oportuit certa de causa nondum adducor ut faciam.",
+                    translationes: {
+                        en: 'But for a certain reason I am not yet induced to do this, which ought to have been done long ago.',
+                        es: 'Pero por una cierta razón todavía no soy inducido a hacer esto, que ya hace tiempo debería haberse hecho.',
+                        zh: '然而，出於某個原因，我尚未被說服去做這件早就該做的事。'
+                    },
+                    verba: [
+                        {id_verbi: "v27_1", terminus: "Verum", analysis_morphologicus: "Conjunción. (Pero).", analysis_morphologicus_en: "Conjunction. (But).", analysis_morphologicus_zh: "連詞。(但是)。", significationes: {es: "pero", en: "but", zh: "但是"}},
+                        {id_verbi: "v27_2", terminus: "ego", analysis_morphologicus: "Pronombre personal. Singular, nominativo. Sujeto.", analysis_morphologicus_en: "Personal pronoun. Singular, nominative. Subject.", analysis_morphologicus_zh: "人稱代詞。單數，主格。主語。", significationes: {es: "yo", en: "I", zh: "我"}},
+                        {id_verbi: "v27_3", terminus: "oportuit", analysis_morphologicus: "Verbo. 3ª p. sing. perfecto indicativo (oportet). Impersonal.", analysis_morphologicus_en: "Verb. 3rd p. sing. perfect indicative (oportet). Impersonal.", analysis_morphologicus_zh: "動詞。第三人稱單數完成時直陳式 (oportet)。無人稱。", significationes: {es: "debería haberse", en: "ought to have been", zh: "早就該"}},
+                        {id_verbi: "v27_4", terminus: "certa", analysis_morphologicus: "Adjetivo. Femenino, singular, ablativo.", analysis_morphologicus_en: "Adjective. Feminine, singular, ablative.", analysis_morphologicus_zh: "形容詞。陰性，單數，奪格。", significationes: {es: "cierta", en: "certain", zh: "某個"}},
+                        {id_verbi: "v27_5", terminus: "de", analysis_morphologicus: "Preposición. Rige ablativo (por).", analysis_morphologicus_en: "Preposition. Takes ablative (for).", analysis_morphologicus_zh: "介詞。接奪格 (由於)。", significationes: {es: "por", en: "for", zh: "由於"}},
+                        {id_verbi: "v27_6", terminus: "causa", analysis_morphologicus: "Sustantivo. Femenino, singular, ablativo.", analysis_morphologicus_en: "Noun. Feminine, singular, ablative.", analysis_morphologicus_zh: "名詞。陰性，單數，奪格。", significationes: {es: "razón", en: "reason", zh: "原因"}},
+                        {id_verbi: "v27_7", terminus: "nondum", analysis_morphologicus: "Adverbio. (todavía no).", analysis_morphologicus_en: "Adverb. (not yet).", analysis_morphologicus_zh: "副詞。(還沒有)。", significationes: {es: "todavía no", en: "not yet", zh: "尚未"}},
+                        {id_verbi: "v27_8", terminus: "adducor", analysis_morphologicus: "Verbo. 1ª p. sing. presente pasivo indicativo (adduco).", analysis_morphologicus_en: "Verb. 1st p. sing. present passive indicative (adduco).", analysis_morphologicus_zh: "動詞。第一人稱單數現在時被動直陳式 (adduco)。", significationes: {es: "soy inducido", en: "I am induced", zh: "我被說服"}},
+                        {id_verbi: "v27_9", terminus: "ut", analysis_morphologicus: "Conjunción. Introduce cláusula de resultado.", analysis_morphologicus_en: "Conjunction. Introduces result clause.", analysis_morphologicus_zh: "連詞。引導結果從句。", significationes: {es: "a", en: "to", zh: "去"}},
+                        {id_verbi: "v27_10", terminus: "faciam.", terminus_verus: "faciam", analysis_morphologicus: "Verbo. 1ª p. sing. presente activo subjuntivo (facio).", analysis_morphologicus_en: "Verb. 1st p. sing. present active subjunctive (facio).", analysis_morphologicus_zh: "動詞。第一人稱單數現在時主動虛擬式 (facio)。", significationes: {es: "hacer", en: "do", zh: "做"}}
+                    ]
+                },
+                {
+                    id_orationis: 'o28',
+                    textus_latinus: "Tum denique interficiere, cum iam nemo tam improbus, tam perditus, tam tui similis inueniri poterit qui id non iure factum esse fateatur.",
+                    translationes: {
+                        en: 'Then at last you will be killed, when no one so wicked, so corrupt, so like yourself can be found who would not admit that it was done justly.',
+                        es: 'Entonces finalmente serás matado, cuando ya no se pueda encontrar a nadie tan malvado, tan corrupto, tan semejante a ti, que no confiese que eso se hizo con justicia.',
+                        zh: '到那時，你終將被處死，當再也找不到任何一個像你一樣邪惡、墮落、和你如此相似的人，會不承認這是正義之舉。'
+                    },
+                    verba: [
+                        {id_verbi: "v28_1", terminus: "Tum", analysis_morphologicus: "Adverbio.", analysis_morphologicus_en: "Adverb.", analysis_morphologicus_zh: "副詞。", significationes: {es: "entonces", en: "then", zh: "那時"}},
+                        {id_verbi: "v28_2", terminus: "denique", analysis_morphologicus: "Adverbio.", analysis_morphologicus_en: "Adverb.", analysis_morphologicus_zh: "副詞。", significationes: {es: "finalmente", en: "at last", zh: "最終"}},
+                        {id_verbi: "v28_3", terminus: "interficiere,", terminus_verus: "interficiere", analysis_morphologicus: "Verbo. 2ª p. sing. futuro pasivo indicativo (interficio).", analysis_morphologicus_en: "Verb. 2nd p. sing. future passive indicative (interficio).", analysis_morphologicus_zh: "動詞。第二人稱單數未來時被動直陳式 (interficio)。", significationes: {es: "serás matado", en: "you will be killed", zh: "你將被處死"}},
+                        {id_verbi: "v28_4", terminus: "cum", analysis_morphologicus: "Conjunción. (cuando).", analysis_morphologicus_en: "Conjunction. (when).", analysis_morphologicus_zh: "連詞。(當…時)。", significationes: {es: "cuando", en: "when", zh: "當"}},
+                        {id_verbi: "v28_5", terminus: "improbus,", terminus_verus: "improbus", analysis_morphologicus: "Adjetivo. Masculino, singular, nominativo.", analysis_morphologicus_en: "Adjective. Masculine, singular, nominative.", analysis_morphologicus_zh: "形容詞。陽性，單數，主格。", significationes: {es: "malvado", en: "wicked", zh: "邪惡的"}},
+                        {id_verbi: "v28_6", terminus: "perditus,", terminus_verus: "perditus", analysis_morphologicus: "Adjetivo. Masculino, singular, nominativo.", analysis_morphologicus_en: "Adjective. Masculine, singular, nominative.", analysis_morphologicus_zh: "形容詞。陽性，單數，主格。", significationes: {es: "corrupto", en: "corrupt", zh: "墮落的"}},
+                        {id_verbi: "v28_7", terminus: "tui", analysis_morphologicus: "Pronombre personal. Genitivo.", analysis_morphologicus_en: "Personal pronoun. Genitive.", analysis_morphologicus_zh: "人稱代詞。屬格。", significationes: {es: "de ti", en: "of you", zh: "你的"}},
+                        {id_verbi: "v28_8", terminus: "similis", analysis_morphologicus: "Adjetivo. Masculino, singular, nominativo.", analysis_morphologicus_en: "Adjective. Masculine, singular, nominative.", analysis_morphologicus_zh: "形容詞。陽性，單數，主格。", significationes: {es: "semejante", en: "like", zh: "相似的"}},
+                        {id_verbi: "v28_9", terminus: "inueniri", analysis_morphologicus: "Verbo. Infinitivo presente pasivo (invenio).", analysis_morphologicus_en: "Verb. Present passive infinitive (invenio).", analysis_morphologicus_zh: "動詞。現在時被動不定式 (invenio)。", significationes: {es: "ser encontrado", en: "to be found", zh: "被找到"}},
+                        {id_verbi: "v28_10", terminus: "poterit", analysis_morphologicus: "Verbo. 3ª p. sing. futuro activo indicativo (possum).", analysis_morphologicus_en: "Verb. 3rd p. sing. future active indicative (possum).", analysis_morphologicus_zh: "動詞。第三人稱單數未來時主動直陳式 (possum)。", significationes: {es: "se pueda", en: "can be", zh: "能夠"}},
+                        {id_verbi: "v28_11", terminus: "iure", analysis_morphologicus: "Sustantivo. Neutro, singular, ablativo. Ablativo de modo.", analysis_morphologicus_en: "Noun. Neuter, singular, ablative. Ablative of manner.", analysis_morphologicus_zh: "名詞。中性，單數，奪格。方式奪格。", significationes: {es: "con justicia", en: "justly", zh: "正義地"}},
+                        {id_verbi: "v28_12", terminus: "fateatur.", terminus_verus: "fateatur", analysis_morphologicus: "Verbo. 3ª p. sing. presente subjuntivo. Deponente (fateor).", analysis_morphologicus_en: "Verb. 3rd p. sing. present subjunctive. Deponent (fateor).", analysis_morphologicus_zh: "動詞。第三人稱單數現在時虛擬式。異態動詞 (fateor)。", significationes: {es: "confiese", en: "admit", zh: "承認"}}
+                    ]
+                },
+                {
+                    id_orationis: 'o29',
+                    textus_latinus: "Quam diu quisquam erit qui te defendere audeat, uiues, et uiues ita ut nunc uiuis, multis meis et firmis praesidiis obsessus ne commouere te contra rem publicam possis.",
+                    translationes: {
+                        en: 'As long as there is anyone who dares to defend you, you will live, and you will live in such a way as you live now, surrounded by my many and strong guards, so that you cannot move against the republic.',
+                        es: 'Mientras haya alguien que se atreva a defenderte, vivirás, y vivirás tal como vives ahora, asediado por mis muchas y firmes guardias, para que no puedas moverte contra la república.',
+                        zh: '只要還有人敢於為你辯護，你就會活著，而且你會像現在這樣活著，被我眾多而堅固的衛兵包圍著，使你無法對抗共和國。'
+                    },
+                    verba: [
+                        {id_verbi: "v29_1", terminus: "Quam", analysis_morphologicus: "Adverbio.", analysis_morphologicus_en: "Adverb.", analysis_morphologicus_zh: "副詞。", significationes: {es: "mientras", en: "as long as", zh: "只要"}},
+                        {id_verbi: "v29_2", terminus: "diu", analysis_morphologicus: "Adverbio.", analysis_morphologicus_en: "Adverb.", analysis_morphologicus_zh: "副詞。", significationes: {es: "", en: "", zh: ""}},
+                        {id_verbi: "v29_3", terminus: "quisquam", analysis_morphologicus: "Pronombre indefinido. Masculino, singular, nominativo. Sujeto.", analysis_morphologicus_en: "Indefinite pronoun. Masculine, singular, nominative. Subject.", analysis_morphologicus_zh: "不定代詞。陽性，單數，主格。主語。", significationes: {es: "alguien", en: "anyone", zh: "任何人"}},
+                        {id_verbi: "v29_4", terminus: "erit", analysis_morphologicus: "Verbo. 3ª p. sing. futuro activo indicativo (sum).", analysis_morphologicus_en: "Verb. 3rd p. sing. future active indicative (sum).", analysis_morphologicus_zh: "動詞。第三人稱單數未來時主動直陳式 (sum)。", significationes: {es: "haya", en: "there is", zh: "有"}},
+                        {id_verbi: "v29_5", terminus: "qui", analysis_morphologicus: "Pronombre relativo. Masculino, singular, nominativo. Sujeto de audeat.", analysis_morphologicus_en: "Relative pronoun. Masculine, singular, nominative. Subject of audeat.", analysis_morphologicus_zh: "關係代詞。陽性，單數，主格。audeat 的主語。", significationes: {es: "que", en: "who", zh: "誰"}},
+                        {id_verbi: "v29_6", terminus: "defendere", analysis_morphologicus: "Verbo. Infinitivo presente activo (defendo).", analysis_morphologicus_en: "Verb. Present active infinitive (defendo).", analysis_morphologicus_zh: "動詞。現在時主動不定式 (defendo)。", significationes: {es: "defender", en: "to defend", zh: "辯護"}},
+                        {id_verbi: "v29_7", terminus: "audeat,", terminus_verus: "audeat", analysis_morphologicus: "Verbo. 3ª p. sing. presente subjuntivo (audeo).", analysis_morphologicus_en: "Verb. 3rd p. sing. present subjunctive (audeo).", analysis_morphologicus_zh: "動詞。第三人稱單數現在時虛擬式 (audeo)。", significationes: {es: "se atreva", en: "dares", zh: "敢於"}},
+                        {id_verbi: "v29_8", terminus: "uiues,", terminus_verus: "uiues", analysis_morphologicus: "Verbo. 2ª p. sing. futuro activo indicativo (vivo).", analysis_morphologicus_en: "Verb. 2nd p. sing. future active indicative (vivo).", analysis_morphologicus_zh: "動詞。第二人稱單數未來時主動直陳式 (vivo)。", significationes: {es: "vivirás", en: "you will live", zh: "你會活著"}},
+                        {id_verbi: "v29_9", terminus: "ita", analysis_morphologicus: "Adverbio.", analysis_morphologicus_en: "Adverb.", analysis_morphologicus_zh: "副詞。", significationes: {es: "tal", en: "in such a way", zh: "這樣"}},
+                        {id_verbi: "v29_10", terminus: "ut", analysis_morphologicus: "Conjunción.", analysis_morphologicus_en: "Conjunction.", analysis_morphologicus_zh: "連詞。", significationes: {es: "como", en: "as", zh: "如同"}},
+                        {id_verbi: "v29_11", terminus: "nunc", analysis_morphologicus: "Adverbio.", analysis_morphologicus_en: "Adverb.", analysis_morphologicus_zh: "副詞。", significationes: {es: "ahora", en: "now", zh: "現在"}},
+                        {id_verbi: "v29_12", terminus: "multis", analysis_morphologicus: "Adjetivo. Neutro, plural, ablativo.", analysis_morphologicus_en: "Adjective. Neuter, plural, ablative.", analysis_morphologicus_zh: "形容詞。中性，複數，奪格。", significationes: {es: "muchas", en: "many", zh: "眾多"}},
+                        {id_verbi: "v29_13", terminus: "meis", analysis_morphologicus: "Adjetivo posesivo. Neutro, plural, ablativo.", analysis_morphologicus_en: "Possessive adjective. Neuter, plural, ablative.", analysis_morphologicus_zh: "物主形容詞。中性，複數，奪格。", significationes: {es: "mis", en: "my", zh: "我的"}},
+                        {id_verbi: "v29_14", terminus: "firmis", analysis_morphologicus: "Adjetivo. Neutro, plural, ablativo.", analysis_morphologicus_en: "Adjective. Neuter, plural, ablative.", analysis_morphologicus_zh: "形容詞。中性，複數，奪格。", significationes: {es: "firmes", en: "strong", zh: "堅固的"}},
+                        {id_verbi: "v29_15", terminus: "praesidiis", analysis_morphologicus: "Sustantivo. Neutro, plural, ablativo. Ablativo de medio.", analysis_morphologicus_en: "Noun. Neuter, plural, ablative. Ablative of means.", analysis_morphologicus_zh: "名詞。中性，複數，奪格。工具奪格。", significationes: {es: "guardias", en: "guards", zh: "衛兵"}},
+                        {id_verbi: "v29_16", terminus: "obsessus", analysis_morphologicus: "Participio perfecto pasivo. Masculino, singular, nominativo.", analysis_morphologicus_en: "Perfect passive participle. Masculine, singular, nominative.", analysis_morphologicus_zh: "完成被動分詞。陽性，單數，主格。", significationes: {es: "asediado", en: "surrounded", zh: "被包圍"}},
+                        {id_verbi: "v29_17", terminus: "commouere", analysis_morphologicus: "Verbo. Infinitivo presente activo (commoveo).", analysis_morphologicus_en: "Verb. Present active infinitive (commoveo).", analysis_morphologicus_zh: "動詞。現在時主動不定式 (commoveo)。", significationes: {es: "moverte", en: "move", zh: "行動"}},
+                        {id_verbi: "v29_18", terminus: "possis.", terminus_verus: "possis", analysis_morphologicus: "Verbo. 2ª p. sing. presente activo subjuntivo (possum).", analysis_morphologicus_en: "Verb. 2nd p. sing. present active subjunctive (possum).", analysis_morphologicus_zh: "動詞。第二人稱單數現在時主動虛擬式 (possum)。", significationes: {es: "puedas", en: "you can", zh: "你能夠"}}
+                    ]
+                },
+                {
+                    id_orationis: 'o30',
+                    textus_latinus: "Multorum te etiam oculi et aures non sentientem, sicut adhuc fecerunt, speculabuntur atque custodient.",
+                    translationes: {
+                        en: 'The eyes and ears of many will also watch and guard you, though you do not perceive them, just as they have done until now.',
+                        es: 'Los ojos y oídos de muchos también te vigilarán y custodiarán sin que te des cuenta, tal como lo han hecho hasta ahora.',
+                        zh: '許多人的眼睛和耳朵也將監視和守護著你，儘管你沒有察覺，就像他們至今所做的一樣。'
+                    },
+                    verba: [
+                        {id_verbi: "v30_1", terminus: "Multorum", analysis_morphologicus: "Adjetivo (sustantivado). Masculino, plural, genitivo.", analysis_morphologicus_en: "Adjective (substantivized). Masculine, plural, genitive.", analysis_morphologicus_zh: "形容詞 (名詞化)。陽性，複數，屬格。", significationes: {es: "de muchos", en: "of many", zh: "許多人的"}},
+                        {id_verbi: "v30_2", terminus: "oculi", analysis_morphologicus: "Sustantivo. Masculino, plural, nominativo. Sujeto.", analysis_morphologicus_en: "Noun. Masculine, plural, nominative. Subject.", analysis_morphologicus_zh: "名詞。陽性，複數，主格。主語。", significationes: {es: "los ojos", en: "the eyes", zh: "眼睛"}},
+                        {id_verbi: "v30_3", terminus: "aures", analysis_morphologicus: "Sustantivo. Femenino, plural, nominativo. Sujeto.", analysis_morphologicus_en: "Noun. Feminine, plural, nominative. Subject.", analysis_morphologicus_zh: "名詞。陰性，複數，主格。主語。", significationes: {es: "y los oídos", en: "and ears", zh: "和耳朵"}},
+                        {id_verbi: "v30_4", terminus: "non", analysis_morphologicus: "Adverbio.", analysis_morphologicus_en: "Adverb.", analysis_morphologicus_zh: "副詞。", significationes: {es: "sin que", en: "not", zh: "沒有"}},
+                        {id_verbi: "v30_5", terminus: "sentientem,", terminus_verus: "sentientem", analysis_morphologicus: "Participio presente activo. Masculino, singular, acusativo.", analysis_morphologicus_en: "Present active participle. Masculine, singular, accusative.", analysis_morphologicus_zh: "現在主動分詞。陽性，單數，賓格。", significationes: {es: "te des cuenta", en: "perceiving", zh: "察覺"}},
+                        {id_verbi: "v30_6", terminus: "sicut", analysis_morphologicus: "Adverbio. (tal como).", analysis_morphologicus_en: "Adverb. (just as).", analysis_morphologicus_zh: "副詞。(正如)。", significationes: {es: "tal como", en: "just as", zh: "正如"}},
+                        {id_verbi: "v30_7", terminus: "adhuc", analysis_morphologicus: "Adverbio. (hasta ahora).", analysis_morphologicus_en: "Adverb. (until now).", analysis_morphologicus_zh: "副詞。(至今)。", significationes: {es: "hasta ahora", en: "until now", zh: "至今"}},
+                        {id_verbi: "v30_8", terminus: "fecerunt,", terminus_verus: "fecerunt", analysis_morphologicus: "Verbo. 3ª p. plural perfecto activo indicativo (facio).", analysis_morphologicus_en: "Verb. 3rd p. plural perfect active indicative (facio).", analysis_morphologicus_zh: "動詞。第三人稱複數完成時主動直陳式 (facio)。", significationes: {es: "han hecho", en: "they have done", zh: "他們已做"}},
+                        {id_verbi: "v30_9", terminus: "speculabuntur", analysis_morphologicus: "Verbo. 3ª p. plural futuro indicativo. Deponente (speculor).", analysis_morphologicus_en: "Verb. 3rd p. plural future indicative. Deponent (speculor).", analysis_morphologicus_zh: "動詞。第三人稱複數未來時直陳式。異態動詞 (speculor)。", significationes: {es: "vigilarán", en: "will watch", zh: "將監視"}},
+                        {id_verbi: "v30_10", terminus: "atque", analysis_morphologicus: "Conjunción.", analysis_morphologicus_en: "Conjunction.", analysis_morphologicus_zh: "連詞。", significationes: {es: "y", en: "and", zh: "和"}},
+                        {id_verbi: "v30_11", terminus: "custodient.", terminus_verus: "custodient", analysis_morphologicus: "Verbo. 3ª p. plural futuro activo indicativo (custodio).", analysis_morphologicus_en: "Verb. 3rd p. plural future active indicative (custodio).", analysis_morphologicus_zh: "動詞。第三人稱複數未來時主動直陳式 (custodio)。", significationes: {es: "custodiarán", en: "will guard", zh: "將守護"}}
+                    ]
+                }
+            ]
+        };
+        // =========================================================================================
+        // === FIN DE LA ZONA DE DATOS DE LA PLANTILLA ===
+        // (No es necesario editar nada debajo de esta línea)
+        // =========================================================================================
+
+        const mainTitle = document.getElementById('main-title');
+        const paragrafusContentus = document.getElementById('paragrafus-contentus');
+        const marginaliaContentus = document.getElementById('marginalia-contentus');
+        const languageSwitcher = document.getElementById('language-switcher');
+        const subtitle = document.getElementById('subtitle');
+        const footerText = document.getElementById('footer-text');
+
+        let idiomaActivo = 'es';
+        let activumVerbum = null;
+        let activaOratio = null;
+
+        const langConfig = {
+            en: {
+                analysisTitle: 'Morphological Analysis',
+                translationTitle: 'Sentence Translation',
+                selectWordText: 'Select a word to see its analysis.',
+                meaningLabel: 'Meaning',
+                footerTextContent: '<i>Click a word to see its analysis and the sentence translation.</i>',
+                analysisKey: 'analysis_morphologicus_en',
+                significationKey: 'en',
+                translationKey: 'en'
+            },
+            es: {
+                analysisTitle: 'Análisis Morfológico',
+                translationTitle: 'Traducción de la Frase',
+                selectWordText: 'Seleccione una palabra para ver su análisis.',
+                meaningLabel: 'Significado',
+                footerTextContent: '<i>Haz clic en una palabra para ver su análisis y la traducción de la frase.</i>',
+                analysisKey: 'analysis_morphologicus',
+                significationKey: 'es',
+                translationKey: 'es'
+            },
+            zh: {
+                analysisTitle: '詞法分析',
+                translationTitle: '句子翻譯',
+                selectWordText: '請選取一個單字以查看其分析。',
+                meaningLabel: '意義',
+                footerTextContent: '<i>點擊一個單字以查看其分析及句子翻譯。</i>',
+                analysisKey: 'analysis_morphologicus_zh',
+                significationKey: 'zh',
+                translationKey: 'zh'
+            }
+        };
+
+        function initialRender() {
+            mainTitle.textContent = titulus_latinus_originalis;
+            idiomaActivo = document.querySelector('.lang-btn.active-lang').dataset.lang || 'es';
+            subtitle.textContent = titulus_translatio[idiomaActivo];
+            reddeParagrafum();
+            actualizaMarginalia();
+        }
+
+        function reddeParagrafum() {
+            let fullText = paragrafus.orationes.map(o => o.textus_latinus).join(' ');
+            let allVerba = paragrafus.orationes.flatMap(o => o.verba.map(v => ({...v, oratioId: o.id_orationis})));
+
+            allVerba.sort((a,b) => (b.terminus_verus || b.terminus).length - (a.terminus_verus || a.terminus).length);
+
+            allVerba.forEach(verbum => {
+                const cleanTerminus = verbum.terminus.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+                const regex = new RegExp(`(${cleanTerminus})(?![^<]*?>|[^<>]*?<\\/)`, 'g');
+                const replacement = `<span class="verbum" data-verbum-id="${verbum.id_verbi}" data-oratio-id="${verbum.oratioId}">$1</span>`;
+                fullText = fullText.replace(regex, replacement);
+            });
+
+            paragrafusContentus.innerHTML = fullText;
+        }
+        
+        function actualizaMarginalia() {
+            let htmlContentus = '';
+            const config = langConfig[idiomaActivo];
+
+            subtitle.textContent = titulus_translatio[idiomaActivo];
+            footerText.innerHTML = config.footerTextContent;
+
+            htmlContentus += `<section id="analysis-morphologicus-section" class="mb-6"><h3 class="text-xl font-semibold text-gray-800 mb-4">${config.analysisTitle}</h3>`;
+            
+            if (activumVerbum) {
+                const analysisText = activumVerbum[config.analysisKey] || activumVerbum.analysis_morphologicus;
+                const meaningText = activumVerbum.significationes[config.significationKey];
+                
+                htmlContentus += `
+                        <h4 class="text-2xl textum-classicum text-gray-800 mb-4">${activumVerbum.terminus}</h4>
+                        <div class="space-y-4">
+                            <div>
+                                <p class="text-gray-700 mt-1">${analysisText}</p>
+                                <p class="text-gray-700 mt-1"><strong>${config.meaningLabel}:</strong> ${meaningText}</p>
+                            </div>
+                        </div>`;
+            } else {
+                htmlContentus += `<div class="p-4 bg-stone-200 rounded-md text-gray-600"><p>${config.selectWordText}</p></div>`;
+            }
+            htmlContentus += `</section>`;
+
+            if (activaOratio) {
+                const translationText = activaOratio.translationes[config.translationKey];
+                
+                htmlContentus += `
+                        <hr class="border-stone-300 my-6">
+                        <section id="analysis-orationis-section">
+                            <h3 class="text-xl font-semibold text-gray-800 mb-4">${config.translationTitle}</h3>
+                            <div class="space-y-3">
+                                <p class="text-gray-800 textum-classicum bg-stone-200 p-3 rounded-md">${activaOratio.textus_latinus}</p>
+                                <div class="text-gray-700 mt-2">${translationText}</div>
+                            </div>
+                        </section>`;
+            }
+            
+            marginaliaContentus.innerHTML = htmlContentus;
+        }
+
+        paragrafusContentus.addEventListener('click', (e) => {
+            const verbumTarget = e.target.closest('.verbum');
+            if (!verbumTarget) {
+                if (!e.target.closest('#marginalia-sinistra')) {
+                    document.querySelectorAll('.activus').forEach(el => el.classList.remove('activus'));
+                    activumVerbum = null;
+                    activaOratio = null;
+                    actualizaMarginalia();
+                }
+                return;
+            }
+
+            const isAlreadyActive = verbumTarget.classList.contains('activus');
+            document.querySelectorAll('.activus').forEach(el => el.classList.remove('activus'));
+            if (isAlreadyActive) {
+                activumVerbum = null;
+                activaOratio = null;
+                actualizaMarginalia();
+                return;
+            }
+
+            const verbumId = verbumTarget.dataset.verbumId;
+            const oratioId = verbumTarget.dataset.oratioId;
+            activaOratio = paragrafus.orationes.find(o => o.id_orationis === oratioId);
+            if (activaOratio) {
+                activumVerbum = activaOratio.verba.find(v => v.id_verbi === verbumId);
+            }
+            verbumTarget.classList.add('activus');
+            actualizaMarginalia();
+        });
+
+        languageSwitcher.addEventListener('click', (e) => {
+            const targetBtn = e.target.closest('.lang-btn');
+            if (!targetBtn) return;
+            
+            const newLang = targetBtn.dataset.lang;
+            if (newLang === idiomaActivo) return;
+            
+            idiomaActivo = newLang;
+            
+            languageSwitcher.querySelector('.active-lang').classList.remove('active-lang');
+            targetBtn.classList.add('active-lang');
+            
+            actualizaMarginalia();
+        });
+
+        initialRender();
+    });
+    </script>
+</body>
+</html>
